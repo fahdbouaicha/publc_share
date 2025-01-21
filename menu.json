@@ -432,12 +432,6 @@
   ],
   "packagings": [
     {
-      "id": "packaging_1",
-      "reference_name": "Plastic bottle",
-      "type_id": 1,
-      "price": 0.5
-    },
-    {
       "id": "packaging_2",
       "reference_name": "Paper bag",
       "type_id": 2,
