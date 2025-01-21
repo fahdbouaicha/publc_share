@@ -200,28 +200,6 @@
       ]
     },
     {
-      "id": "salad_product_1",
-      "name": "Chicken salad",
-      "description": "Chicken salad",
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "price": 3.5,
-      "attributes_groups": [
-        "sauces_1"
-      ],
-      "available": true
-    },
-    {
-      "id": "salad_product_2",
-      "name": "Shrimp salad",
-      "description": "Shrimp salad",
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "price": 4.5,
-      "attributes_groups": [
-        "sauces_1"
-      ],
-      "available": true
-    },
-    {
       "id": "salad_combo_1",
       "name": "Salad + drink",
       "price": 5,
