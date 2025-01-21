@@ -1,0 +1,469 @@
+{
+  "attributes": [
+    {
+      "id": "sauce_1",
+      "name": "Ketchup",
+      "selected_by_default": false,
+      "price_impact": 0,
+      "available": true
+    },
+    {
+      "id": "sauce_2",
+      "name": "Mayo",
+      "selected_by_default": false,
+      "price_impact": 0,
+      "available": true
+    },
+    {
+      "id": "sauce_3",
+      "name": "BBQ",
+      "selected_by_default": false,
+      "price_impact": 0,
+      "available": true
+    },
+    {
+      "id": "pizza_size_1",
+      "name": "Medium (16cm)",
+      "selected_by_default": false,
+      "price_impact": 0
+    },
+    {
+      "id": "pizza_size_2",
+      "name": "Family size (30cm)",
+      "selected_by_default": false,
+      "price_impact": 4
+    }
+  ],
+  "attribute_groups": [
+    {
+      "id": "sauces_1",
+      "name": "Choose your sauces",
+      "min": 0,
+      "max": 3,
+      "collapse": true,
+      "multiple_selection": false,
+      "attributes": [
+        "sauce_1",
+        "sauce_2",
+        "sauce_3"
+      ]
+    },
+    {
+      "id": "pizza_sizes_1",
+      "name": "Choose the size of your pizza",
+      "min": 1,
+      "max": 1,
+      "collapse": false,
+      "multiple_selection": false,
+      "attributes": [
+        "pizza_size_1",
+        "pizza_size_2"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "drink_product_1",
+      "name": "Water (0,5l)",
+      "description": "Water",
+      "price": 1.5,
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "attributes_groups": [],
+      "available": true,
+      "dietary_labels": []
+    },
+    {
+      "id": "drink_product_2",
+      "name": "Lemonade (0,5l)",
+      "description": "Lemonade",
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "price": 2.5,
+      "attributes_groups": [],
+      "available": true,
+      "packaging": "packaging_1"
+    },
+    {
+      "id": "salad_product_1",
+      "name": "Caesar salad",
+      "description": "Caesar salad",
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "price": 2.5,
+      "attributes_groups": [
+        "sauces_1"
+      ],
+      "available": true,
+      "dietary_labels": [
+        "VEGETARIAN"
+      ]
+    },
+    {
+      "id": "salad_product_2",
+      "name": "Greek salad",
+      "description": "Greek salad",
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "price": 3,
+      "attributes_groups": [
+        "sauces_1"
+      ],
+      "available": true,
+      "dietary_labels": [
+        "VEGETARIAN",
+        "GLUTEN_FREE"
+      ],
+      "packaging": "packaging_1"
+    },
+    {
+      "id": "burger_product_1",
+      "name": "Beef burger",
+      "description": "Beef burger",
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "price": 4,
+      "attributes_groups": [
+        "sauces_1"
+      ],
+      "available": true,
+      "packaging": "packaging_2"
+    },
+    {
+      "id": "burger_product_2",
+      "name": "Chicken burger",
+      "description": "Chicken burger",
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "price": 3.5,
+      "attributes_groups": [
+        "sauces_1"
+      ],
+      "available": true
+    },
+    {
+      "id": "burger_combo_1",
+      "name": "Double Burger + side + drink",
+      "price": 7.5,
+      "image_url": "https://i.imgur.com/Mcgmjaz.png",
+      "extra_image_urls": [
+        "https://i.imgur.com/Tsj3NOK.png",
+        "https://i.imgur.com/Qj5DlEH.png",
+        "https://i.imgur.com/Qj5MlEH.png"
+      ],
+      "description": "Combination of delicious burger, a side and a drink",
+      "attributes_groups": [],
+      "available": true,
+      "combo_groups": [
+        {
+          "name": "Choose your burger",
+          "multiple_selection": true,
+          "min": 2,
+          "max": 2,
+          "combo_items": [
+            {
+              "product_id": "burger_product_1",
+              "surcharge": 0
+            },
+            {
+              "product_id": "burger_product_2",
+              "surcharge": 0
+            }
+          ]
+        },
+        {
+          "name": "Choose your side",
+          "multiple_selection": true,
+          "min": 2,
+          "max": 2,
+          "combo_items": [
+            {
+              "product_id": "salad_product_1",
+              "surcharge": 0
+            },
+            {
+              "product_id": "salad_product_2",
+              "surcharge": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Choose your drink",
+          "multiple_selection": true,
+          "min": 2,
+          "max": 2,
+          "combo_items": [
+            {
+              "product_id": "drink_product_1",
+              "surcharge": 0
+            },
+            {
+              "product_id": "drink_product_2",
+              "surcharge": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "salad_product_1",
+      "name": "Chicken salad",
+      "description": "Chicken salad",
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "price": 3.5,
+      "attributes_groups": [
+        "sauces_1"
+      ],
+      "available": true
+    },
+    {
+      "id": "salad_product_2",
+      "name": "Shrimp salad",
+      "description": "Shrimp salad",
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "price": 4.5,
+      "attributes_groups": [
+        "sauces_1"
+      ],
+      "available": true
+    },
+    {
+      "id": "salad_combo_1",
+      "name": "Salad + drink",
+      "price": 5,
+      "image_url": "https://i.imgur.com/Tsj3NOK.png",
+      "extra_image_urls": [
+        "https://i.imgur.com/Mcgmjaz.png",
+        "https://i.imgur.com/Qj5MlEH.png"
+      ],
+      "description": "Healthy salad and a drink",
+      "available": true,
+      "attributes_groups": [],
+      "combo_groups": [
+        {
+          "name": "Choose your salad",
+          "multiple_selection": false,
+          "min": 1,
+          "max": 1,
+          "combo_items": [
+            {
+              "product_id": "salad_product_1",
+              "surcharge": 0
+            },
+            {
+              "product_id": "salad_product_2",
+              "surcharge": 1
+            }
+          ]
+        },
+        {
+          "name": "Choose your drink",
+          "multiple_selection": false,
+          "min": 1,
+          "max": 1,
+          "combo_items": [
+            {
+              "product_id": "beer_1",
+              "surcharge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beer_1",
+      "name": "El Pedal",
+      "price": 5,
+      "image_url": "https://i.imgur.com/Tsj3NOK.png",
+      "extra_image_urls": [
+        "https://i.imgur.com/Mcgmjaz.png",
+        "https://i.imgur.com/Qj5MlEH.png"
+      ],
+      "restrictions": {
+        "is_alcoholic": true
+      },
+      "description": "Beer is one of the oldest and most widely consumed alcoholic drinks in the world",
+      "attributes_groups": [
+        "drinks_1"
+      ],
+      "available": true
+    },
+    {
+      "id": "tobacco_1",
+      "name": "Cigar",
+      "price": 10,
+      "image_url": "https://i.imgur.com/Tsj3NOK.png",
+      "restrictions": {
+        "is_tobacco": true
+      },
+      "description": "Big Cuban cigar",
+      "available": true,
+      "attributes_groups": []
+    },
+    {
+      "id": "pizza_1",
+      "name": "Pizza Margherita",
+      "price": 10,
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "extra_image_urls": [
+        "https://i.imgur.com/Mcgmjaz.png"
+      ],
+      "description": "Amazing pizza margherita",
+      "attributes_groups": [
+        "pizza_sizes_1"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "name": "Menus",
+      "position": 0,
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "sections": [
+        {
+          "name": "Burger menus",
+          "position": 1,
+          "products": [
+            "drink_product_1",
+            "drink_product_2",
+            "burger_product_1",
+            "burger_product_1"
+          ]
+        },
+        {
+          "name": "Salad menus",
+          "position": 2,
+          "products": [
+            "salad_product_1",
+            "salad_product_2",
+            "beer_1"
+          ]
+        }
+      ],
+      "schedule": {
+        "name": "Menu Schedule",
+        "id": "menu_schedule_1",
+        "availabilities": [
+          {
+            "day": "MONDAY",
+            "time_slots": [
+              {
+                "start": "12:00",
+                "end": "16:00"
+              },
+              {
+                "start": "20:00",
+                "end": "22:00"
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "time_slots": [
+              {
+                "start": "12:00",
+                "end": "16:00"
+              },
+              {
+                "start": "20:00",
+                "end": "22:00"
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "time_slots": [
+              {
+                "start": "12:00",
+                "end": "16:00"
+              },
+              {
+                "start": "20:00",
+                "end": "22:00"
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "time_slots": [
+              {
+                "start": "12:00",
+                "end": "16:00"
+              },
+              {
+                "start": "20:00",
+                "end": "22:00"
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "time_slots": [
+              {
+                "start": "12:00",
+                "end": "16:00"
+              }
+            ]
+          },
+          {
+            "day": "SATURDAY",
+            "time_slots": [
+              {
+                "start": "12:00",
+                "end": "16:00"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pizzas",
+      "position": 1,
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "sections": [
+        {
+          "name": "Pizzas",
+          "position": 1,
+          "products": [
+            "pizza_1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Everything-else",
+      "position": 2,
+      "image_url": "https://i.imgur.com/Qj5MlEH.png",
+      "sections": [
+        {
+          "name": "Pizzas",
+          "position": 1,
+          "products": [
+            "tobacco_1"
+          ]
+        }
+      ]
+    }
+  ],
+  "supercollections": [
+    {
+      "name": "Lunch Menu",
+      "position": 0,
+      "image_url": "https://i.imgur.com/Qj5DlEH.png",
+      "collections": [
+        "Menus",
+        "Pizzas",
+        "Everything-else"
+      ]
+    }
+  ],
+  "packagings": [
+    {
+      "id": "packaging_1",
+      "reference_name": "Plastic bottle",
+      "type_id": 1,
+      "price": 0.5
+    },
+    {
+      "id": "packaging_2",
+      "reference_name": "Paper bag",
+      "type_id": 2,
+      "price": 0.2
+    }
+  ]
+}
