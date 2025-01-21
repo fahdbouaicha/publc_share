@@ -431,11 +431,5 @@
     }
   ],
   "packagings": [
-    {
-      "id": "packaging_2",
-      "reference_name": "Paper bag",
-      "type_id": 2,
-      "price": 0.2
-    }
   ]
 }
