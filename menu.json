@@ -79,8 +79,7 @@
       "image_url": "https://i.imgur.com/Qj5MlEH.png",
       "price": 2.5,
       "attributes_groups": [],
-      "available": true,
-      "packaging": "packaging_1"
+      "available": true
     },
     {
       "id": "salad_product_1",
@@ -109,8 +108,7 @@
       "dietary_labels": [
         "VEGETARIAN",
         "GLUTEN_FREE"
-      ],
-      "packaging": "packaging_1"
+      ]
     },
     {
       "id": "burger_product_1",
@@ -121,8 +119,7 @@
       "attributes_groups": [
         "sauces_1"
       ],
-      "available": true,
-      "packaging": "packaging_2"
+      "available": true
     },
     {
       "id": "burger_product_2",
