@@ -409,7 +409,9 @@
           "name": "Pizzas",
           "position": 1,
           "products": [
-            "tobacco_1"
+            "tobacco_1",
+            "burger_combo_1",
+            "salad_combo_1"
           ]
         }
       ]
