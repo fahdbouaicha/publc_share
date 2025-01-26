@@ -120,27 +120,6 @@
             "available": true
         },
         {
-            "id": "679344539f7350bceff2bd99",
-            "name": "1 Pilon & Rice",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "6793457c9f7350bceff2bffe",
-            "name": "2 Pilon & Rice",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "6793458f9f7350bceff2c0c6",
-            "name": "3 Pilon & Rice",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
             "id": "6793471c9f7350bceff2c88c",
             "name": "1/2 Poulet ",
             "selected_by_default": false,
@@ -169,27 +148,6 @@
             "available": true
         },
         {
-            "id": "679348629f7350bceff2ceba",
-            "name": "1/2 Poulet & Rice",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "6793489c9f7350bceff2d04a",
-            "name": "Poulet & Rice",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "679349f59f7350bceff2d5d5",
-            "name": "Frite & Boisson",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
             "id": "67934b3d9f7350bceff2db21",
             "name": "2 Poulet",
             "selected_by_default": false,
@@ -199,48 +157,6 @@
         {
             "id": "67934c6c9f7350bceff2df38",
             "name": "4 Frites",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67934d699f7350bceff2e1d5",
-            "name": "Family Box",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67934f2a9f7350bceff2ea66",
-            "name": "1 Pilon & Pasta",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67934f5a9f7350bceff2ecba",
-            "name": "2 Pilon & Pasta",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67934f859f7350bceff2ef1e",
-            "name": "3 Pilon & Pasta",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67934fc19f7350bceff2f19f",
-            "name": "1/2 Poulte & Pasta",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67934ff59f7350bceff2f43d",
-            "name": "Poulet & Pasta",
             "selected_by_default": false,
             "price_impact": 0,
             "available": true
@@ -260,13 +176,6 @@
             "available": true
         },
         {
-            "id": "679350a49f7350bceff2fe22",
-            "name": "Chili Thai & Tartar",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
             "id": "67937590a4936387e6884091",
             "name": "1 Pilon",
             "selected_by_default": false,
@@ -276,20 +185,6 @@
         {
             "id": "679375fba4936387e6884777",
             "name": "2 Wings ",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67937647a4936387e6884cde",
-            "name": "2wings & Pasta",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67937660a4936387e688537e",
-            "name": "2wings & Rice",
             "selected_by_default": false,
             "price_impact": 0,
             "available": true
@@ -332,7 +227,7 @@
     ],
     "attribute_groups": [
         {
-            "id": "67923ba75bf556bb7d2d4659_group",
+            "id": "67923ba75bf556bb7d2d4659_67923ba75bf556bb7d2d465f_group",
             "name": "1 Pilon ",
             "min": 0,
             "max": 1000,
@@ -343,7 +238,7 @@
             ]
         },
         {
-            "id": "67923ba95bf556bb7d2d4685_group",
+            "id": "67923ba95bf556bb7d2d4685_67923ba95bf556bb7d2d468f_group",
             "name": "2 Pilon",
             "min": 0,
             "max": 1000,
@@ -354,7 +249,7 @@
             ]
         },
         {
-            "id": "67923bc15bf556bb7d2d47ea_group",
+            "id": "67923bc15bf556bb7d2d47ea_67923bc15bf556bb7d2d47f2_group",
             "name": "3 Pilon ",
             "min": 0,
             "max": 1000,
@@ -365,7 +260,7 @@
             ]
         },
         {
-            "id": "67923c165bf556bb7d2d48c7_group",
+            "id": "67923c165bf556bb7d2d48c7_67923c165bf556bb7d2d48cd_group",
             "name": "2 Wings",
             "min": 0,
             "max": 1000,
@@ -376,7 +271,7 @@
             ]
         },
         {
-            "id": "67923d935bf556bb7d2d493f_group",
+            "id": "67923d935bf556bb7d2d493f_67923d935bf556bb7d2d4945_group",
             "name": "Kebsa Poulet",
             "min": 0,
             "max": 1000,
@@ -387,7 +282,7 @@
             ]
         },
         {
-            "id": "67923d9a5bf556bb7d2d4981_group",
+            "id": "67923d9a5bf556bb7d2d4981_67923d9a5bf556bb7d2d498b_group",
             "name": "Pasta Poulet",
             "min": 0,
             "max": 1000,
@@ -398,7 +293,7 @@
             ]
         },
         {
-            "id": "67923f255bf556bb7d2d4afd_group",
+            "id": "67923f255bf556bb7d2d4afd_67923f255bf556bb7d2d4b03_group",
             "name": "Ration Frite",
             "min": 0,
             "max": 1000,
@@ -409,35 +304,95 @@
             ]
         },
         {
-            "id": "6792405b5bf556bb7d2d4c51_group",
-            "name": "Canette",
+            "id": "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c57_group",
+            "name": "Coca Cola 25 Cl",
             "min": 0,
             "max": 1000,
             "collapse": false,
             "multiple_selection": true,
             "attributes": [
-                "6792405b5bf556bb7d2d4c57",
-                "6792405b5bf556bb7d2d4c5b",
-                "6792405b5bf556bb7d2d4c5f",
-                "6792405b5bf556bb7d2d4c63",
+                "6792405b5bf556bb7d2d4c57"
+            ]
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c5b_group",
+            "name": "Coca Zero 25 Cl",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "6792405b5bf556bb7d2d4c5b"
+            ]
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c5f_group",
+            "name": "Hawaii 25 Cl",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "6792405b5bf556bb7d2d4c5f"
+            ]
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c63_group",
+            "name": "Sprite 25 Cl",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "6792405b5bf556bb7d2d4c63"
+            ]
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c67_group",
+            "name": "Poms 25 Cl",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
                 "6792405b5bf556bb7d2d4c67"
             ]
         },
         {
-            "id": "679241055bf556bb7d2d4da3_group",
-            "name": "Bouteille 1l",
+            "id": "679241055bf556bb7d2d4da3_679241055bf556bb7d2d4da9_group",
+            "name": "Coca Cola 1l",
             "min": 0,
             "max": 1000,
             "collapse": false,
             "multiple_selection": true,
             "attributes": [
-                "679241055bf556bb7d2d4da9",
-                "679241055bf556bb7d2d4dad",
+                "679241055bf556bb7d2d4da9"
+            ]
+        },
+        {
+            "id": "679241055bf556bb7d2d4da3_679241055bf556bb7d2d4dad_group",
+            "name": "Hawaii 1l",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "679241055bf556bb7d2d4dad"
+            ]
+        },
+        {
+            "id": "679241055bf556bb7d2d4da3_679241055bf556bb7d2d4db1_group",
+            "name": "Sprite 1l",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
                 "679241055bf556bb7d2d4db1"
             ]
         },
         {
-            "id": "679241635bf556bb7d2d4f4a_group",
+            "id": "679241635bf556bb7d2d4f4a_679241635bf556bb7d2d4f50_group",
             "name": "Jus Multifruit 200 Ml",
             "min": 0,
             "max": 1000,
@@ -448,7 +403,7 @@
             ]
         },
         {
-            "id": "679241685bf556bb7d2d4fde_group",
+            "id": "679241685bf556bb7d2d4fde_679241685bf556bb7d2d4fe8_group",
             "name": "Jus Orange 200 Ml",
             "min": 0,
             "max": 1000,
@@ -459,40 +414,43 @@
             ]
         },
         {
-            "id": "679344539f7350bceff2bd93_group",
-            "name": "1 Pilon & Rice",
-            "min": 0,
-            "max": 90,
+            "id": "step_679344539f7350bceff2bd9d_679344539f7350bceff2bd93",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "679344539f7350bceff2bd99"
+                "67923ba75bf556bb7d2d465f",
+                "67923d935bf556bb7d2d4945"
             ]
         },
         {
-            "id": "6793457c9f7350bceff2bff8_group",
-            "name": "2 Pilon & Rice",
-            "min": 0,
-            "max": 90,
+            "id": "step_6793457c9f7350bceff2c002_6793457c9f7350bceff2bff8",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "6793457c9f7350bceff2bffe"
+                "67923ba95bf556bb7d2d468f",
+                "67923d935bf556bb7d2d4945"
             ]
         },
         {
-            "id": "6793458f9f7350bceff2c0bc_group",
-            "name": "3 Pilon & Rice",
-            "min": 0,
-            "max": 90,
+            "id": "step_6793458f9f7350bceff2c0cb_6793458f9f7350bceff2c0bc",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "6793458f9f7350bceff2c0c6"
+                "67923d935bf556bb7d2d4945",
+                "67923bc15bf556bb7d2d47f2"
             ]
         },
         {
-            "id": "6793471c9f7350bceff2c886_group",
+            "id": "6793471c9f7350bceff2c886_6793471c9f7350bceff2c88c_group",
             "name": "1/2 Poulet ",
             "min": 0,
             "max": 1000,
@@ -503,7 +461,7 @@
             ]
         },
         {
-            "id": "679347499f7350bceff2c96b_group",
+            "id": "679347499f7350bceff2c96b_679347499f7350bceff2c971_group",
             "name": "Poulet Entier",
             "min": 0,
             "max": 1000,
@@ -514,7 +472,7 @@
             ]
         },
         {
-            "id": "679347749f7350bceff2ca61_group",
+            "id": "679347749f7350bceff2ca61_679347749f7350bceff2ca67_group",
             "name": "3 Ailes",
             "min": 0,
             "max": 1000,
@@ -525,7 +483,7 @@
             ]
         },
         {
-            "id": "679347e09f7350bceff2cc3e_group",
+            "id": "679347e09f7350bceff2cc3e_679347e09f7350bceff2cc44_group",
             "name": "Cornet de Frites",
             "min": 0,
             "max": 1000,
@@ -536,40 +494,57 @@
             ]
         },
         {
-            "id": "679348629f7350bceff2ceb4_group",
-            "name": "1/2 Poulet & Rice",
-            "min": 0,
-            "max": 90,
+            "id": "step_679348629f7350bceff2cebe_679348629f7350bceff2ceb4",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "679348629f7350bceff2ceba"
+                "6793471c9f7350bceff2c88c",
+                "67923d935bf556bb7d2d4945"
             ]
         },
         {
-            "id": "6793489c9f7350bceff2d044_group",
-            "name": "Poulet & Rice",
-            "min": 0,
-            "max": 90,
+            "id": "step_6793489c9f7350bceff2d04e_6793489c9f7350bceff2d044",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "6793489c9f7350bceff2d04a"
+                "67923d935bf556bb7d2d4945",
+                "679347499f7350bceff2c971"
             ]
         },
         {
-            "id": "679349f59f7350bceff2d5d1_group",
-            "name": "Frite & Boisson",
-            "min": 0,
-            "max": 90,
+            "id": "step_679349f59f7350bceff2d5d8_679349f59f7350bceff2d5d1",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "679349f59f7350bceff2d5d5"
+                "67923f255bf556bb7d2d4b03"
             ]
         },
         {
-            "id": "67934b3d9f7350bceff2db1b_group",
+            "id": "step_679349f59f7350bceff2d5da_679349f59f7350bceff2d5d1",
+            "name": "Choix Boison",
+            "min": 0,
+            "max": 1,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "6792405b5bf556bb7d2d4c57",
+                "6792405b5bf556bb7d2d4c5b",
+                "6792405b5bf556bb7d2d4c5f",
+                "6792405b5bf556bb7d2d4c63",
+                "6792405b5bf556bb7d2d4c67"
+            ]
+        },
+        {
+            "id": "67934b3d9f7350bceff2db1b_67934b3d9f7350bceff2db21_group",
             "name": "2 Poulet",
             "min": 0,
             "max": 1000,
@@ -580,7 +555,7 @@
             ]
         },
         {
-            "id": "67934c6c9f7350bceff2df34_group",
+            "id": "67934c6c9f7350bceff2df34_67934c6c9f7350bceff2df38_group",
             "name": "4 Frites",
             "min": 0,
             "max": 1000,
@@ -591,73 +566,104 @@
             ]
         },
         {
-            "id": "67934d699f7350bceff2e1cf_group",
-            "name": "Family Box",
-            "min": 0,
-            "max": 90,
+            "id": "step_67934d699f7350bceff2e1d9_67934d699f7350bceff2e1cf",
+            "name": "Requis",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "67934d699f7350bceff2e1d5"
+                "67934c6c9f7350bceff2df38",
+                "67934b3d9f7350bceff2db21"
             ]
         },
         {
-            "id": "67934f2a9f7350bceff2ea60_group",
-            "name": "1 Pilon & Pasta",
+            "id": "step_67934d699f7350bceff2e1db_67934d699f7350bceff2e1cf",
+            "name": "Pasta or Rice",
             "min": 0,
-            "max": 90,
+            "max": 4,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67923d935bf556bb7d2d4945",
+                "67923d9a5bf556bb7d2d498b"
+            ]
+        },
+        {
+            "id": "step_67934d699f7350bceff2e1dd_67934d699f7350bceff2e1cf",
+            "name": "Boisson",
+            "min": 0,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "67934f2a9f7350bceff2ea66"
+                "679241055bf556bb7d2d4da9",
+                "679241055bf556bb7d2d4dad",
+                "679241055bf556bb7d2d4db1"
             ]
         },
         {
-            "id": "67934f5a9f7350bceff2ecb4_group",
-            "name": "2 Pilon & Pasta",
-            "min": 0,
-            "max": 90,
+            "id": "step_67934f2a9f7350bceff2ea6a_67934f2a9f7350bceff2ea60",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "67934f5a9f7350bceff2ecba"
+                "67923ba75bf556bb7d2d465f",
+                "67923d9a5bf556bb7d2d498b"
             ]
         },
         {
-            "id": "67934f859f7350bceff2ef18_group",
-            "name": "3 Pilon & Pasta",
-            "min": 0,
-            "max": 90,
+            "id": "step_67934f5a9f7350bceff2ecbe_67934f5a9f7350bceff2ecb4",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "67934f859f7350bceff2ef1e"
+                "67923ba95bf556bb7d2d468f",
+                "67923d9a5bf556bb7d2d498b"
             ]
         },
         {
-            "id": "67934fc19f7350bceff2f199_group",
-            "name": "1/2 Poulte & Pasta",
-            "min": 0,
-            "max": 90,
+            "id": "step_67934f859f7350bceff2ef22_67934f859f7350bceff2ef18",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "67934fc19f7350bceff2f19f"
+                "67923bc15bf556bb7d2d47f2",
+                "67923d9a5bf556bb7d2d498b"
             ]
         },
         {
-            "id": "67934ff59f7350bceff2f437_group",
-            "name": "Poulet & Pasta",
-            "min": 0,
-            "max": 90,
+            "id": "step_67934fc19f7350bceff2f1a3_67934fc19f7350bceff2f199",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "67934ff59f7350bceff2f43d"
+                "6793471c9f7350bceff2c88c",
+                "67923d9a5bf556bb7d2d498b"
             ]
         },
         {
-            "id": "679350599f7350bceff2f939_group",
+            "id": "step_67934ff59f7350bceff2f441_67934ff59f7350bceff2f437",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "67923d9a5bf556bb7d2d498b",
+                "679347499f7350bceff2c971"
+            ]
+        },
+        {
+            "id": "679350599f7350bceff2f939_679350599f7350bceff2f93f_group",
             "name": "Chili Thai",
             "min": 0,
             "max": 1000,
@@ -668,7 +674,7 @@
             ]
         },
         {
-            "id": "6793506e9f7350bceff2fb47_group",
+            "id": "6793506e9f7350bceff2fb47_6793506e9f7350bceff2fb4d_group",
             "name": "Tartar",
             "min": 0,
             "max": 1000,
@@ -679,18 +685,19 @@
             ]
         },
         {
-            "id": "679350a49f7350bceff2fe1c_group",
-            "name": "Chili Thai & Tartar",
+            "id": "step_679350a49f7350bceff2fe26_679350a49f7350bceff2fe1c",
+            "name": "Sauce",
             "min": 0,
-            "max": 90,
+            "max": 2,
             "collapse": false,
-            "multiple_selection": false,
+            "multiple_selection": true,
             "attributes": [
-                "679350a49f7350bceff2fe22"
+                "679350599f7350bceff2f93f",
+                "6793506e9f7350bceff2fb4d"
             ]
         },
         {
-            "id": "67937590a4936387e688408b_group",
+            "id": "67937590a4936387e688408b_67937590a4936387e6884091_group",
             "name": "1 Pilon",
             "min": 0,
             "max": 1000,
@@ -701,7 +708,7 @@
             ]
         },
         {
-            "id": "679375fba4936387e6884773_group",
+            "id": "679375fba4936387e6884773_679375fba4936387e6884777_group",
             "name": "2 Wings ",
             "min": 0,
             "max": 1000,
@@ -712,29 +719,31 @@
             ]
         },
         {
-            "id": "67937647a4936387e6884cd8_group",
-            "name": "2wings & Pasta",
-            "min": 0,
-            "max": 90,
+            "id": "step_67937647a4936387e6884ce2_67937647a4936387e6884cd8",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "67937647a4936387e6884cde"
+                "679375fba4936387e6884777",
+                "67923d9a5bf556bb7d2d498b"
             ]
         },
         {
-            "id": "67937660a4936387e6885374_group",
-            "name": "2wings & Rice",
-            "min": 0,
-            "max": 90,
+            "id": "step_67937660a4936387e6885383_67937660a4936387e6885374",
+            "name": "Choix",
+            "min": 1,
+            "max": 1,
             "collapse": false,
             "multiple_selection": false,
             "attributes": [
-                "67937660a4936387e688537e"
+                "679375fba4936387e6884777",
+                "67923d935bf556bb7d2d4945"
             ]
         },
         {
-            "id": "67938235a4936387e688eed9_group",
+            "id": "67938235a4936387e688eed9_67938235a4936387e688eedf_group",
             "name": "Eau 33cl",
             "min": 0,
             "max": 1000,
@@ -745,16 +754,46 @@
             ]
         },
         {
-            "id": "67938a85a4936387e6897ee2_group",
-            "name": "Tiramisu",
+            "id": "67938a85a4936387e6897ee2_67938a85a4936387e6897ee8_group",
+            "name": "Lotus",
             "min": 0,
             "max": 1000,
             "collapse": false,
             "multiple_selection": true,
             "attributes": [
-                "67938a85a4936387e6897ee8",
-                "67938a85a4936387e6897eec",
-                "67938a85a4936387e6897ef0",
+                "67938a85a4936387e6897ee8"
+            ]
+        },
+        {
+            "id": "67938a85a4936387e6897ee2_67938a85a4936387e6897eec_group",
+            "name": "Fraise",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67938a85a4936387e6897eec"
+            ]
+        },
+        {
+            "id": "67938a85a4936387e6897ee2_67938a85a4936387e6897ef0_group",
+            "name": "Nutella",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67938a85a4936387e6897ef0"
+            ]
+        },
+        {
+            "id": "67938a85a4936387e6897ee2_67938a85a4936387e6897ef4_group",
+            "name": "Oreo",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
                 "67938a85a4936387e6897ef4"
             ]
         }
@@ -767,7 +806,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67923ba75bf556bb7d2d4659_group"
+                "67923ba75bf556bb7d2d4659_67923ba75bf556bb7d2d465f_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -779,7 +818,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67923ba95bf556bb7d2d4685_group"
+                "67923ba95bf556bb7d2d4685_67923ba95bf556bb7d2d468f_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -791,7 +830,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67923bc15bf556bb7d2d47ea_group"
+                "67923bc15bf556bb7d2d47ea_67923bc15bf556bb7d2d47f2_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -803,7 +842,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67923c165bf556bb7d2d48c7_group"
+                "67923c165bf556bb7d2d48c7_67923c165bf556bb7d2d48cd_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -815,7 +854,7 @@
             "price": 25,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67923d935bf556bb7d2d493f_group"
+                "67923d935bf556bb7d2d493f_67923d935bf556bb7d2d4945_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -827,7 +866,7 @@
             "price": 25,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67923d9a5bf556bb7d2d4981_group"
+                "67923d9a5bf556bb7d2d4981_67923d9a5bf556bb7d2d498b_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -839,7 +878,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67923f255bf556bb7d2d4afd_group"
+                "67923f255bf556bb7d2d4afd_67923f255bf556bb7d2d4b03_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -851,7 +890,11 @@
             "price": 10,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "6792405b5bf556bb7d2d4c51_group"
+                "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c57_group",
+                "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c5b_group",
+                "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c5f_group",
+                "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c63_group",
+                "6792405b5bf556bb7d2d4c51_6792405b5bf556bb7d2d4c67_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -863,7 +906,9 @@
             "price": 15,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679241055bf556bb7d2d4da3_group"
+                "679241055bf556bb7d2d4da3_679241055bf556bb7d2d4da9_group",
+                "679241055bf556bb7d2d4da3_679241055bf556bb7d2d4dad_group",
+                "679241055bf556bb7d2d4da3_679241055bf556bb7d2d4db1_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -875,7 +920,7 @@
             "price": 15,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679241635bf556bb7d2d4f4a_group"
+                "679241635bf556bb7d2d4f4a_679241635bf556bb7d2d4f50_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -887,7 +932,7 @@
             "price": 15,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679241685bf556bb7d2d4fde_group"
+                "679241685bf556bb7d2d4fde_679241685bf556bb7d2d4fe8_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -899,7 +944,7 @@
             "price": 35,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679344539f7350bceff2bd93_group"
+                "step_679344539f7350bceff2bd9d_679344539f7350bceff2bd93"
             ],
             "available": true,
             "dietary_labels": []
@@ -911,7 +956,7 @@
             "price": 50,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "6793457c9f7350bceff2bff8_group"
+                "step_6793457c9f7350bceff2c002_6793457c9f7350bceff2bff8"
             ],
             "available": true,
             "dietary_labels": []
@@ -923,7 +968,7 @@
             "price": 60,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "6793458f9f7350bceff2c0bc_group"
+                "step_6793458f9f7350bceff2c0cb_6793458f9f7350bceff2c0bc"
             ],
             "available": true,
             "dietary_labels": []
@@ -935,7 +980,7 @@
             "price": 55,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "6793471c9f7350bceff2c886_group"
+                "6793471c9f7350bceff2c886_6793471c9f7350bceff2c88c_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -947,7 +992,7 @@
             "price": 80,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679347499f7350bceff2c96b_group"
+                "679347499f7350bceff2c96b_679347499f7350bceff2c971_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -959,7 +1004,7 @@
             "price": 15,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679347749f7350bceff2ca61_group"
+                "679347749f7350bceff2ca61_679347749f7350bceff2ca67_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -971,7 +1016,7 @@
             "price": 20,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679347e09f7350bceff2cc3e_group"
+                "679347e09f7350bceff2cc3e_679347e09f7350bceff2cc44_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -983,7 +1028,7 @@
             "price": 70,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679348629f7350bceff2ceb4_group"
+                "step_679348629f7350bceff2cebe_679348629f7350bceff2ceb4"
             ],
             "available": true,
             "dietary_labels": []
@@ -995,7 +1040,7 @@
             "price": 95,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "6793489c9f7350bceff2d044_group"
+                "step_6793489c9f7350bceff2d04e_6793489c9f7350bceff2d044"
             ],
             "available": true,
             "dietary_labels": []
@@ -1007,7 +1052,8 @@
             "price": 20,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679349f59f7350bceff2d5d1_group"
+                "step_679349f59f7350bceff2d5d8_679349f59f7350bceff2d5d1",
+                "step_679349f59f7350bceff2d5da_679349f59f7350bceff2d5d1"
             ],
             "available": true,
             "dietary_labels": []
@@ -1019,7 +1065,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67934b3d9f7350bceff2db1b_group"
+                "67934b3d9f7350bceff2db1b_67934b3d9f7350bceff2db21_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -1031,7 +1077,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67934c6c9f7350bceff2df34_group"
+                "67934c6c9f7350bceff2df34_67934c6c9f7350bceff2df38_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -1043,7 +1089,9 @@
             "price": 295,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67934d699f7350bceff2e1cf_group"
+                "step_67934d699f7350bceff2e1d9_67934d699f7350bceff2e1cf",
+                "step_67934d699f7350bceff2e1db_67934d699f7350bceff2e1cf",
+                "step_67934d699f7350bceff2e1dd_67934d699f7350bceff2e1cf"
             ],
             "available": true,
             "dietary_labels": []
@@ -1055,7 +1103,7 @@
             "price": 35,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67934f2a9f7350bceff2ea60_group"
+                "step_67934f2a9f7350bceff2ea6a_67934f2a9f7350bceff2ea60"
             ],
             "available": true,
             "dietary_labels": []
@@ -1067,7 +1115,7 @@
             "price": 50,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67934f5a9f7350bceff2ecb4_group"
+                "step_67934f5a9f7350bceff2ecbe_67934f5a9f7350bceff2ecb4"
             ],
             "available": true,
             "dietary_labels": []
@@ -1079,7 +1127,7 @@
             "price": 60,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67934f859f7350bceff2ef18_group"
+                "step_67934f859f7350bceff2ef22_67934f859f7350bceff2ef18"
             ],
             "available": true,
             "dietary_labels": []
@@ -1091,7 +1139,7 @@
             "price": 70,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67934fc19f7350bceff2f199_group"
+                "step_67934fc19f7350bceff2f1a3_67934fc19f7350bceff2f199"
             ],
             "available": true,
             "dietary_labels": []
@@ -1103,7 +1151,7 @@
             "price": 95,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67934ff59f7350bceff2f437_group"
+                "step_67934ff59f7350bceff2f441_67934ff59f7350bceff2f437"
             ],
             "available": true,
             "dietary_labels": []
@@ -1115,7 +1163,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679350599f7350bceff2f939_group"
+                "679350599f7350bceff2f939_679350599f7350bceff2f93f_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -1127,7 +1175,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "6793506e9f7350bceff2fb47_group"
+                "6793506e9f7350bceff2fb47_6793506e9f7350bceff2fb4d_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -1139,7 +1187,7 @@
             "price": 5,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679350a49f7350bceff2fe1c_group"
+                "step_679350a49f7350bceff2fe26_679350a49f7350bceff2fe1c"
             ],
             "available": true,
             "dietary_labels": []
@@ -1151,7 +1199,7 @@
             "price": 15,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67937590a4936387e688408b_group"
+                "67937590a4936387e688408b_67937590a4936387e6884091_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -1163,7 +1211,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "679375fba4936387e6884773_group"
+                "679375fba4936387e6884773_679375fba4936387e6884777_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -1175,7 +1223,7 @@
             "price": 35,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67937647a4936387e6884cd8_group"
+                "step_67937647a4936387e6884ce2_67937647a4936387e6884cd8"
             ],
             "available": true,
             "dietary_labels": []
@@ -1187,7 +1235,7 @@
             "price": 35,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67937660a4936387e6885374_group"
+                "step_67937660a4936387e6885383_67937660a4936387e6885374"
             ],
             "available": true,
             "dietary_labels": []
@@ -1199,7 +1247,7 @@
             "price": 5,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67938235a4936387e688eed9_group"
+                "67938235a4936387e688eed9_67938235a4936387e688eedf_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -1211,7 +1259,10 @@
             "price": 20,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
-                "67938a85a4936387e6897ee2_group"
+                "67938a85a4936387e6897ee2_67938a85a4936387e6897ee8_group",
+                "67938a85a4936387e6897ee2_67938a85a4936387e6897eec_group",
+                "67938a85a4936387e6897ee2_67938a85a4936387e6897ef0_group",
+                "67938a85a4936387e6897ee2_67938a85a4936387e6897ef4_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -1221,7 +1272,7 @@
         {
             "name": "Plat Rice",
             "position": 0,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Plat Rice",
@@ -1241,7 +1292,7 @@
         {
             "name": "Plat Pasta",
             "position": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Plat Pasta",
@@ -1261,7 +1312,7 @@
         {
             "name": "Frites & Boisson",
             "position": 2,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Frites & Boisson",
@@ -1275,7 +1326,7 @@
         {
             "name": "Boisson ",
             "position": 3,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Boisson ",
@@ -1293,7 +1344,7 @@
         {
             "name": "Nos Offres",
             "position": 4,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Nos Offres",
@@ -1312,7 +1363,7 @@
         {
             "name": "Menu",
             "position": 5,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Menu",
@@ -1326,7 +1377,7 @@
         {
             "name": "C.cuisne",
             "position": 6,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "C.cuisne",
@@ -1349,7 +1400,7 @@
         {
             "name": "Dessert",
             "position": 7,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Dessert",
