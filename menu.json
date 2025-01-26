@@ -1221,7 +1221,7 @@
         {
             "name": "Plat Rice",
             "position": 0,
-            "image_url": "/uploads/categories/default.png",
+            "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "sections": [
                 {
                     "name": "Plat Rice",
@@ -1241,7 +1241,7 @@
         {
             "name": "Plat Pasta",
             "position": 1,
-            "image_url": "/uploads/categories/default.png",
+            "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "sections": [
                 {
                     "name": "Plat Pasta",
@@ -1261,7 +1261,7 @@
         {
             "name": "Frites & Boisson",
             "position": 2,
-            "image_url": "/uploads/categories/default.png",
+            "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "sections": [
                 {
                     "name": "Frites & Boisson",
@@ -1275,7 +1275,7 @@
         {
             "name": "Boisson ",
             "position": 3,
-            "image_url": "/uploads/categories/default.png",
+            "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "sections": [
                 {
                     "name": "Boisson ",
@@ -1293,7 +1293,7 @@
         {
             "name": "Nos Offres",
             "position": 4,
-            "image_url": "/uploads/categories/default.png",
+            "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "sections": [
                 {
                     "name": "Nos Offres",
@@ -1312,7 +1312,7 @@
         {
             "name": "Menu",
             "position": 5,
-            "image_url": "/uploads/categories/default.png",
+            "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "sections": [
                 {
                     "name": "Menu",
@@ -1326,7 +1326,7 @@
         {
             "name": "C.cuisne",
             "position": 6,
-            "image_url": "/uploads/categories/default.png",
+            "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "sections": [
                 {
                     "name": "C.cuisne",
@@ -1349,7 +1349,7 @@
         {
             "name": "Dessert",
             "position": 7,
-            "image_url": "/uploads/categories/default.png",
+            "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "sections": [
                 {
                     "name": "Dessert",
