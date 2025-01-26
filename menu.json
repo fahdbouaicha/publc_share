@@ -1,435 +1,1366 @@
 {
-  "attributes": [
-    {
-      "id": "sauce_1",
-      "name": "Ketchup",
-      "selected_by_default": false,
-      "price_impact": 0,
-      "available": true
-    },
-    {
-      "id": "sauce_2",
-      "name": "Mayo",
-      "selected_by_default": false,
-      "price_impact": 0,
-      "available": true
-    },
-    {
-      "id": "sauce_3",
-      "name": "BBQ",
-      "selected_by_default": false,
-      "price_impact": 0,
-      "available": true
-    },
-    {
-      "id": "pizza_size_1",
-      "name": "Medium (16cm)",
-      "selected_by_default": false,
-      "price_impact": 0
-    },
-    {
-      "id": "pizza_size_2",
-      "name": "Family size (30cm)",
-      "selected_by_default": false,
-      "price_impact": 4
-    }
-  ],
-  "attribute_groups": [
-    {
-      "id": "sauces_1",
-      "name": "Choose your sauces",
-      "min": 0,
-      "max": 3,
-      "collapse": true,
-      "multiple_selection": false,
-      "attributes": [
-        "sauce_1",
-        "sauce_2",
-        "sauce_3"
-      ]
-    },
-    {
-      "id": "pizza_sizes_1",
-      "name": "Choose the size of your pizza",
-      "min": 1,
-      "max": 1,
-      "collapse": false,
-      "multiple_selection": false,
-      "attributes": [
-        "pizza_size_1",
-        "pizza_size_2"
-      ]
-    }
-  ],
-  "products": [
-    {
-      "id": "drink_product_1",
-      "name": "Water (0,5l)",
-      "description": "Water",
-      "price": 1.5,
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "attributes_groups": [],
-      "available": true,
-      "dietary_labels": []
-    },
-    {
-      "id": "drink_product_2",
-      "name": "Lemonade (0,5l)",
-      "description": "Lemonade",
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "price": 2.5,
-      "attributes_groups": [],
-      "available": true
-    },
-    {
-      "id": "salad_product_1",
-      "name": "Caesar salad",
-      "description": "Caesar salad",
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "price": 2.5,
-      "attributes_groups": [
-        "sauces_1"
-      ],
-      "available": true,
-      "dietary_labels": [
-        "VEGETARIAN"
-      ]
-    },
-    {
-      "id": "salad_product_2",
-      "name": "Greek salad",
-      "description": "Greek salad",
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "price": 3,
-      "attributes_groups": [
-        "sauces_1"
-      ],
-      "available": true,
-      "dietary_labels": [
-        "VEGETARIAN",
-        "GLUTEN_FREE"
-      ]
-    },
-    {
-      "id": "burger_product_1",
-      "name": "Beef burger",
-      "description": "Beef burger",
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "price": 4,
-      "attributes_groups": [
-        "sauces_1"
-      ],
-      "available": true
-    },
-    {
-      "id": "burger_product_2",
-      "name": "Chicken burger",
-      "description": "Chicken burger",
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "price": 3.5,
-      "attributes_groups": [
-        "sauces_1"
-      ],
-      "available": true
-    },
-    {
-      "id": "burger_combo_1",
-      "name": "Double Burger + side + drink",
-      "price": 7.5,
-      "image_url": "https://i.imgur.com/Mcgmjaz.png",
-      "extra_image_urls": [
-        "https://i.imgur.com/Tsj3NOK.png",
-        "https://i.imgur.com/Qj5DlEH.png",
-        "https://i.imgur.com/Qj5MlEH.png"
-      ],
-      "description": "Combination of delicious burger, a side and a drink",
-      "attributes_groups": [],
-      "available": true,
-      "combo_groups": [
+    "attributes": [
         {
-          "name": "Choose your burger",
-          "multiple_selection": true,
-          "min": 2,
-          "max": 2,
-          "combo_items": [
-            {
-              "product_id": "burger_product_1",
-              "surcharge": 0
-            },
-            {
-              "product_id": "burger_product_2",
-              "surcharge": 0
-            }
-          ]
+            "id": "67923ba75bf556bb7d2d465f",
+            "name": "1 Pilon ",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
         },
         {
-          "name": "Choose your side",
-          "multiple_selection": true,
-          "min": 2,
-          "max": 2,
-          "combo_items": [
-            {
-              "product_id": "salad_product_1",
-              "surcharge": 0
-            },
-            {
-              "product_id": "salad_product_2",
-              "surcharge": 0.5
-            }
-          ]
+            "id": "67923ba95bf556bb7d2d468f",
+            "name": "2 Pilon",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
         },
         {
-          "name": "Choose your drink",
-          "multiple_selection": true,
-          "min": 2,
-          "max": 2,
-          "combo_items": [
-            {
-              "product_id": "drink_product_1",
-              "surcharge": 0
-            },
-            {
-              "product_id": "drink_product_2",
-              "surcharge": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "salad_combo_1",
-      "name": "Salad + drink",
-      "price": 5,
-      "image_url": "https://i.imgur.com/Tsj3NOK.png",
-      "extra_image_urls": [
-        "https://i.imgur.com/Mcgmjaz.png",
-        "https://i.imgur.com/Qj5MlEH.png"
-      ],
-      "description": "Healthy salad and a drink",
-      "available": true,
-      "attributes_groups": [],
-      "combo_groups": [
-        {
-          "name": "Choose your salad",
-          "multiple_selection": false,
-          "min": 1,
-          "max": 1,
-          "combo_items": [
-            {
-              "product_id": "salad_product_1",
-              "surcharge": 0
-            },
-            {
-              "product_id": "salad_product_2",
-              "surcharge": 1
-            }
-          ]
+            "id": "67923bc15bf556bb7d2d47f2",
+            "name": "3 Pilon ",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
         },
         {
-          "name": "Choose your drink",
-          "multiple_selection": false,
-          "min": 1,
-          "max": 1,
-          "combo_items": [
-            {
-              "product_id": "beer_1",
-              "surcharge": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "beer_1",
-      "name": "El Pedal",
-      "price": 5,
-      "image_url": "https://i.imgur.com/Tsj3NOK.png",
-      "extra_image_urls": [
-        "https://i.imgur.com/Mcgmjaz.png",
-        "https://i.imgur.com/Qj5MlEH.png"
-      ],
-      "restrictions": {
-        "is_alcoholic": true
-      },
-      "description": "Beer is one of the oldest and most widely consumed alcoholic drinks in the world",
-      "attributes_groups": [
-        "drinks_1"
-      ],
-      "available": true
-    },
-    {
-      "id": "tobacco_1",
-      "name": "Cigar",
-      "price": 10,
-      "image_url": "https://i.imgur.com/Tsj3NOK.png",
-      "restrictions": {
-        "is_tobacco": true
-      },
-      "description": "Big Cuban cigar",
-      "available": true,
-      "attributes_groups": []
-    },
-    {
-      "id": "pizza_1",
-      "name": "Pizza Margherita",
-      "price": 10,
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "extra_image_urls": [
-        "https://i.imgur.com/Mcgmjaz.png"
-      ],
-      "description": "Amazing pizza margherita",
-      "attributes_groups": [
-        "pizza_sizes_1"
-      ]
-    }
-  ],
-  "collections": [
-    {
-      "name": "Menus",
-      "position": 0,
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "sections": [
-        {
-          "name": "Burger menus",
-          "position": 1,
-          "products": [
-            "drink_product_1",
-            "drink_product_2",
-            "burger_product_1",
-            "burger_combo_1",
-            "salad_combo_1"
-          ]
+            "id": "67923c165bf556bb7d2d48cd",
+            "name": "2 Wings",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
         },
         {
-          "name": "Salad menus",
-          "position": 2,
-          "products": [
-            "salad_product_1",
-            "salad_product_2",
-            "beer_1"
-          ]
-        }
-      ],
-      "schedule": {
-        "name": "Menu Schedule",
-        "id": "menu_schedule_1",
-        "availabilities": [
-          {
-            "day": "MONDAY",
-            "time_slots": [
-              {
-                "start": "12:00",
-                "end": "16:00"
-              },
-              {
-                "start": "20:00",
-                "end": "22:00"
-              }
-            ]
-          },
-          {
-            "day": "TUESDAY",
-            "time_slots": [
-              {
-                "start": "12:00",
-                "end": "16:00"
-              },
-              {
-                "start": "20:00",
-                "end": "22:00"
-              }
-            ]
-          },
-          {
-            "day": "WEDNESDAY",
-            "time_slots": [
-              {
-                "start": "12:00",
-                "end": "16:00"
-              },
-              {
-                "start": "20:00",
-                "end": "22:00"
-              }
-            ]
-          },
-          {
-            "day": "THURSDAY",
-            "time_slots": [
-              {
-                "start": "12:00",
-                "end": "16:00"
-              },
-              {
-                "start": "20:00",
-                "end": "22:00"
-              }
-            ]
-          },
-          {
-            "day": "FRIDAY",
-            "time_slots": [
-              {
-                "start": "12:00",
-                "end": "16:00"
-              }
-            ]
-          },
-          {
-            "day": "SATURDAY",
-            "time_slots": [
-              {
-                "start": "12:00",
-                "end": "16:00"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "name": "Pizzas",
-      "position": 1,
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "sections": [
+            "id": "67923d935bf556bb7d2d4945",
+            "name": "Kebsa Poulet",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
         {
-          "name": "Pizzas",
-          "position": 1,
-          "products": [
-            "pizza_1"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Everything-else",
-      "position": 2,
-      "image_url": "https://i.imgur.com/Qj5MlEH.png",
-      "sections": [
+            "id": "67923d9a5bf556bb7d2d498b",
+            "name": "Pasta Poulet",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
         {
-          "name": "Pizzas",
-          "position": 1,
-          "products": [
-            "tobacco_1",
-            "burger_combo_1",
-            "salad_combo_1"
-          ]
+            "id": "67923f255bf556bb7d2d4b03",
+            "name": "Ration Frite",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c57",
+            "name": "Coca Cola 25 Cl",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c5b",
+            "name": "Coca Zero 25 Cl",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c5f",
+            "name": "Hawaii 25 Cl",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c63",
+            "name": "Sprite 25 Cl",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c67",
+            "name": "Poms 25 Cl",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679241055bf556bb7d2d4da9",
+            "name": "Coca Cola 1l",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679241055bf556bb7d2d4dad",
+            "name": "Hawaii 1l",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679241055bf556bb7d2d4db1",
+            "name": "Sprite 1l",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679241635bf556bb7d2d4f50",
+            "name": "Jus Multifruit 200 Ml",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679241685bf556bb7d2d4fe8",
+            "name": "Jus Orange 200 Ml",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679344539f7350bceff2bd99",
+            "name": "1 Pilon & Rice",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6793457c9f7350bceff2bffe",
+            "name": "2 Pilon & Rice",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6793458f9f7350bceff2c0c6",
+            "name": "3 Pilon & Rice",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6793471c9f7350bceff2c88c",
+            "name": "1/2 Poulet ",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679347499f7350bceff2c971",
+            "name": "Poulet Entier",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679347749f7350bceff2ca67",
+            "name": "3 Ailes",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679347e09f7350bceff2cc44",
+            "name": "Cornet de Frites",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679348629f7350bceff2ceba",
+            "name": "1/2 Poulet & Rice",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6793489c9f7350bceff2d04a",
+            "name": "Poulet & Rice",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679349f59f7350bceff2d5d5",
+            "name": "Frite & Boisson",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67934b3d9f7350bceff2db21",
+            "name": "2 Poulet",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67934c6c9f7350bceff2df38",
+            "name": "4 Frites",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67934d699f7350bceff2e1d5",
+            "name": "Family Box",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67934f2a9f7350bceff2ea66",
+            "name": "1 Pilon & Pasta",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67934f5a9f7350bceff2ecba",
+            "name": "2 Pilon & Pasta",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67934f859f7350bceff2ef1e",
+            "name": "3 Pilon & Pasta",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67934fc19f7350bceff2f19f",
+            "name": "1/2 Poulte & Pasta",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67934ff59f7350bceff2f43d",
+            "name": "Poulet & Pasta",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679350599f7350bceff2f93f",
+            "name": "Chili Thai",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "6793506e9f7350bceff2fb4d",
+            "name": "Tartar",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679350a49f7350bceff2fe22",
+            "name": "Chili Thai & Tartar",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67937590a4936387e6884091",
+            "name": "1 Pilon",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "679375fba4936387e6884777",
+            "name": "2 Wings ",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67937647a4936387e6884cde",
+            "name": "2wings & Pasta",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67937660a4936387e688537e",
+            "name": "2wings & Rice",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67938235a4936387e688eedf",
+            "name": "Eau 33cl",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67938a85a4936387e6897ee8",
+            "name": "Lotus",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67938a85a4936387e6897eec",
+            "name": "Fraise",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67938a85a4936387e6897ef0",
+            "name": "Nutella",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
+        },
+        {
+            "id": "67938a85a4936387e6897ef4",
+            "name": "Oreo",
+            "selected_by_default": false,
+            "price_impact": 0,
+            "available": true
         }
-      ]
-    }
-  ],
-  "supercollections": [
-    {
-      "name": "Lunch Menu",
-      "position": 0,
-      "image_url": "https://i.imgur.com/Qj5DlEH.png",
-      "collections": [
-        "Menus",
-        "Pizzas",
-        "Everything-else"
-      ]
-    }
-  ],
-  "packagings": [
-  ]
+    ],
+    "attribute_groups": [
+        {
+            "id": "67923ba75bf556bb7d2d4659_group",
+            "name": "1 Pilon ",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67923ba75bf556bb7d2d465f"
+            ]
+        },
+        {
+            "id": "67923ba95bf556bb7d2d4685_group",
+            "name": "2 Pilon",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67923ba95bf556bb7d2d468f"
+            ]
+        },
+        {
+            "id": "67923bc15bf556bb7d2d47ea_group",
+            "name": "3 Pilon ",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67923bc15bf556bb7d2d47f2"
+            ]
+        },
+        {
+            "id": "67923c165bf556bb7d2d48c7_group",
+            "name": "2 Wings",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67923c165bf556bb7d2d48cd"
+            ]
+        },
+        {
+            "id": "67923d935bf556bb7d2d493f_group",
+            "name": "Kebsa Poulet",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67923d935bf556bb7d2d4945"
+            ]
+        },
+        {
+            "id": "67923d9a5bf556bb7d2d4981_group",
+            "name": "Pasta Poulet",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67923d9a5bf556bb7d2d498b"
+            ]
+        },
+        {
+            "id": "67923f255bf556bb7d2d4afd_group",
+            "name": "Ration Frite",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67923f255bf556bb7d2d4b03"
+            ]
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c51_group",
+            "name": "Canette",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "6792405b5bf556bb7d2d4c57",
+                "6792405b5bf556bb7d2d4c5b",
+                "6792405b5bf556bb7d2d4c5f",
+                "6792405b5bf556bb7d2d4c63",
+                "6792405b5bf556bb7d2d4c67"
+            ]
+        },
+        {
+            "id": "679241055bf556bb7d2d4da3_group",
+            "name": "Bouteille 1l",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "679241055bf556bb7d2d4da9",
+                "679241055bf556bb7d2d4dad",
+                "679241055bf556bb7d2d4db1"
+            ]
+        },
+        {
+            "id": "679241635bf556bb7d2d4f4a_group",
+            "name": "Jus Multifruit 200 Ml",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "679241635bf556bb7d2d4f50"
+            ]
+        },
+        {
+            "id": "679241685bf556bb7d2d4fde_group",
+            "name": "Jus Orange 200 Ml",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "679241685bf556bb7d2d4fe8"
+            ]
+        },
+        {
+            "id": "679344539f7350bceff2bd93_group",
+            "name": "1 Pilon & Rice",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "679344539f7350bceff2bd99"
+            ]
+        },
+        {
+            "id": "6793457c9f7350bceff2bff8_group",
+            "name": "2 Pilon & Rice",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "6793457c9f7350bceff2bffe"
+            ]
+        },
+        {
+            "id": "6793458f9f7350bceff2c0bc_group",
+            "name": "3 Pilon & Rice",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "6793458f9f7350bceff2c0c6"
+            ]
+        },
+        {
+            "id": "6793471c9f7350bceff2c886_group",
+            "name": "1/2 Poulet ",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "6793471c9f7350bceff2c88c"
+            ]
+        },
+        {
+            "id": "679347499f7350bceff2c96b_group",
+            "name": "Poulet Entier",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "679347499f7350bceff2c971"
+            ]
+        },
+        {
+            "id": "679347749f7350bceff2ca61_group",
+            "name": "3 Ailes",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "679347749f7350bceff2ca67"
+            ]
+        },
+        {
+            "id": "679347e09f7350bceff2cc3e_group",
+            "name": "Cornet de Frites",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "679347e09f7350bceff2cc44"
+            ]
+        },
+        {
+            "id": "679348629f7350bceff2ceb4_group",
+            "name": "1/2 Poulet & Rice",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "679348629f7350bceff2ceba"
+            ]
+        },
+        {
+            "id": "6793489c9f7350bceff2d044_group",
+            "name": "Poulet & Rice",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "6793489c9f7350bceff2d04a"
+            ]
+        },
+        {
+            "id": "679349f59f7350bceff2d5d1_group",
+            "name": "Frite & Boisson",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "679349f59f7350bceff2d5d5"
+            ]
+        },
+        {
+            "id": "67934b3d9f7350bceff2db1b_group",
+            "name": "2 Poulet",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67934b3d9f7350bceff2db21"
+            ]
+        },
+        {
+            "id": "67934c6c9f7350bceff2df34_group",
+            "name": "4 Frites",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67934c6c9f7350bceff2df38"
+            ]
+        },
+        {
+            "id": "67934d699f7350bceff2e1cf_group",
+            "name": "Family Box",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "67934d699f7350bceff2e1d5"
+            ]
+        },
+        {
+            "id": "67934f2a9f7350bceff2ea60_group",
+            "name": "1 Pilon & Pasta",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "67934f2a9f7350bceff2ea66"
+            ]
+        },
+        {
+            "id": "67934f5a9f7350bceff2ecb4_group",
+            "name": "2 Pilon & Pasta",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "67934f5a9f7350bceff2ecba"
+            ]
+        },
+        {
+            "id": "67934f859f7350bceff2ef18_group",
+            "name": "3 Pilon & Pasta",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "67934f859f7350bceff2ef1e"
+            ]
+        },
+        {
+            "id": "67934fc19f7350bceff2f199_group",
+            "name": "1/2 Poulte & Pasta",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "67934fc19f7350bceff2f19f"
+            ]
+        },
+        {
+            "id": "67934ff59f7350bceff2f437_group",
+            "name": "Poulet & Pasta",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "67934ff59f7350bceff2f43d"
+            ]
+        },
+        {
+            "id": "679350599f7350bceff2f939_group",
+            "name": "Chili Thai",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "679350599f7350bceff2f93f"
+            ]
+        },
+        {
+            "id": "6793506e9f7350bceff2fb47_group",
+            "name": "Tartar",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "6793506e9f7350bceff2fb4d"
+            ]
+        },
+        {
+            "id": "679350a49f7350bceff2fe1c_group",
+            "name": "Chili Thai & Tartar",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "679350a49f7350bceff2fe22"
+            ]
+        },
+        {
+            "id": "67937590a4936387e688408b_group",
+            "name": "1 Pilon",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67937590a4936387e6884091"
+            ]
+        },
+        {
+            "id": "679375fba4936387e6884773_group",
+            "name": "2 Wings ",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "679375fba4936387e6884777"
+            ]
+        },
+        {
+            "id": "67937647a4936387e6884cd8_group",
+            "name": "2wings & Pasta",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "67937647a4936387e6884cde"
+            ]
+        },
+        {
+            "id": "67937660a4936387e6885374_group",
+            "name": "2wings & Rice",
+            "min": 0,
+            "max": 90,
+            "collapse": false,
+            "multiple_selection": false,
+            "attributes": [
+                "67937660a4936387e688537e"
+            ]
+        },
+        {
+            "id": "67938235a4936387e688eed9_group",
+            "name": "Eau 33cl",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67938235a4936387e688eedf"
+            ]
+        },
+        {
+            "id": "67938a85a4936387e6897ee2_group",
+            "name": "Tiramisu",
+            "min": 0,
+            "max": 1000,
+            "collapse": false,
+            "multiple_selection": true,
+            "attributes": [
+                "67938a85a4936387e6897ee8",
+                "67938a85a4936387e6897eec",
+                "67938a85a4936387e6897ef0",
+                "67938a85a4936387e6897ef4"
+            ]
+        }
+    ],
+    "products": [
+        {
+            "id": "67923ba75bf556bb7d2d4659",
+            "name": "1 Pilon ",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "67923ba75bf556bb7d2d4659_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67923ba95bf556bb7d2d4685",
+            "name": "2 Pilon",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "67923ba95bf556bb7d2d4685_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67923bc15bf556bb7d2d47ea",
+            "name": "3 Pilon ",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "67923bc15bf556bb7d2d47ea_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67923c165bf556bb7d2d48c7",
+            "name": "2 Wings",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "67923c165bf556bb7d2d48c7_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67923d935bf556bb7d2d493f",
+            "name": "Kebsa Poulet",
+            "description": "",
+            "price": 25,
+            "image_url": "",
+            "attributes_groups": [
+                "67923d935bf556bb7d2d493f_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67923d9a5bf556bb7d2d4981",
+            "name": "Pasta Poulet",
+            "description": "",
+            "price": 25,
+            "image_url": "",
+            "attributes_groups": [
+                "67923d9a5bf556bb7d2d4981_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67923f255bf556bb7d2d4afd",
+            "name": "Ration Frite",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "67923f255bf556bb7d2d4afd_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "6792405b5bf556bb7d2d4c51",
+            "name": "Canette",
+            "description": "",
+            "price": 10,
+            "image_url": "",
+            "attributes_groups": [
+                "6792405b5bf556bb7d2d4c51_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679241055bf556bb7d2d4da3",
+            "name": "Bouteille 1l",
+            "description": "",
+            "price": 15,
+            "image_url": "",
+            "attributes_groups": [
+                "679241055bf556bb7d2d4da3_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679241635bf556bb7d2d4f4a",
+            "name": "Jus Multifruit 200 Ml",
+            "description": "",
+            "price": 15,
+            "image_url": "",
+            "attributes_groups": [
+                "679241635bf556bb7d2d4f4a_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679241685bf556bb7d2d4fde",
+            "name": "Jus Orange 200 Ml",
+            "description": "",
+            "price": 15,
+            "image_url": "",
+            "attributes_groups": [
+                "679241685bf556bb7d2d4fde_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679344539f7350bceff2bd93",
+            "name": "1 Pilon & Rice",
+            "description": "1 Pilon & Rice",
+            "price": 35,
+            "image_url": "",
+            "attributes_groups": [
+                "679344539f7350bceff2bd93_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "6793457c9f7350bceff2bff8",
+            "name": "2 Pilon & Rice",
+            "description": "",
+            "price": 50,
+            "image_url": "",
+            "attributes_groups": [
+                "6793457c9f7350bceff2bff8_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "6793458f9f7350bceff2c0bc",
+            "name": "3 Pilon & Rice",
+            "description": "",
+            "price": 60,
+            "image_url": "",
+            "attributes_groups": [
+                "6793458f9f7350bceff2c0bc_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "6793471c9f7350bceff2c886",
+            "name": "1/2 Poulet ",
+            "description": "",
+            "price": 55,
+            "image_url": "",
+            "attributes_groups": [
+                "6793471c9f7350bceff2c886_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679347499f7350bceff2c96b",
+            "name": "Poulet Entier",
+            "description": "",
+            "price": 80,
+            "image_url": "",
+            "attributes_groups": [
+                "679347499f7350bceff2c96b_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679347749f7350bceff2ca61",
+            "name": "3 Ailes",
+            "description": "",
+            "price": 15,
+            "image_url": "",
+            "attributes_groups": [
+                "679347749f7350bceff2ca61_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679347e09f7350bceff2cc3e",
+            "name": "Cornet de Frites",
+            "description": "",
+            "price": 20,
+            "image_url": "",
+            "attributes_groups": [
+                "679347e09f7350bceff2cc3e_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679348629f7350bceff2ceb4",
+            "name": "1/2 Poulet & Rice",
+            "description": "",
+            "price": 70,
+            "image_url": "",
+            "attributes_groups": [
+                "679348629f7350bceff2ceb4_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "6793489c9f7350bceff2d044",
+            "name": "Poulet & Rice",
+            "description": "",
+            "price": 95,
+            "image_url": "",
+            "attributes_groups": [
+                "6793489c9f7350bceff2d044_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679349f59f7350bceff2d5d1",
+            "name": "Frite & Boisson",
+            "description": "",
+            "price": 20,
+            "image_url": "",
+            "attributes_groups": [
+                "679349f59f7350bceff2d5d1_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67934b3d9f7350bceff2db1b",
+            "name": "2 Poulet",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "67934b3d9f7350bceff2db1b_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67934c6c9f7350bceff2df34",
+            "name": "4 Frites",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "67934c6c9f7350bceff2df34_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67934d699f7350bceff2e1cf",
+            "name": "Family Box",
+            "description": "",
+            "price": 295,
+            "image_url": "",
+            "attributes_groups": [
+                "67934d699f7350bceff2e1cf_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67934f2a9f7350bceff2ea60",
+            "name": "1 Pilon & Pasta",
+            "description": "",
+            "price": 35,
+            "image_url": "",
+            "attributes_groups": [
+                "67934f2a9f7350bceff2ea60_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67934f5a9f7350bceff2ecb4",
+            "name": "2 Pilon & Pasta",
+            "description": "",
+            "price": 50,
+            "image_url": "",
+            "attributes_groups": [
+                "67934f5a9f7350bceff2ecb4_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67934f859f7350bceff2ef18",
+            "name": "3 Pilon & Pasta",
+            "description": "",
+            "price": 60,
+            "image_url": "",
+            "attributes_groups": [
+                "67934f859f7350bceff2ef18_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67934fc19f7350bceff2f199",
+            "name": "1/2 Poulte & Pasta",
+            "description": "",
+            "price": 70,
+            "image_url": "",
+            "attributes_groups": [
+                "67934fc19f7350bceff2f199_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67934ff59f7350bceff2f437",
+            "name": "Poulet & Pasta",
+            "description": "",
+            "price": 95,
+            "image_url": "",
+            "attributes_groups": [
+                "67934ff59f7350bceff2f437_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679350599f7350bceff2f939",
+            "name": "Chili Thai",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "679350599f7350bceff2f939_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "6793506e9f7350bceff2fb47",
+            "name": "Tartar",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "6793506e9f7350bceff2fb47_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679350a49f7350bceff2fe1c",
+            "name": "Chili Thai & Tartar",
+            "description": "",
+            "price": 5,
+            "image_url": "",
+            "attributes_groups": [
+                "679350a49f7350bceff2fe1c_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67937590a4936387e688408b",
+            "name": "1 Pilon",
+            "description": "",
+            "price": 15,
+            "image_url": "",
+            "attributes_groups": [
+                "67937590a4936387e688408b_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "679375fba4936387e6884773",
+            "name": "2 Wings ",
+            "description": "",
+            "price": 1,
+            "image_url": "",
+            "attributes_groups": [
+                "679375fba4936387e6884773_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67937647a4936387e6884cd8",
+            "name": "2wings & Pasta",
+            "description": "",
+            "price": 35,
+            "image_url": "",
+            "attributes_groups": [
+                "67937647a4936387e6884cd8_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67937660a4936387e6885374",
+            "name": "2wings & Rice",
+            "description": "",
+            "price": 35,
+            "image_url": "",
+            "attributes_groups": [
+                "67937660a4936387e6885374_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67938235a4936387e688eed9",
+            "name": "Eau 33cl",
+            "description": "",
+            "price": 5,
+            "image_url": "",
+            "attributes_groups": [
+                "67938235a4936387e688eed9_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        },
+        {
+            "id": "67938a85a4936387e6897ee2",
+            "name": "Tiramisu",
+            "description": "",
+            "price": 20,
+            "image_url": "",
+            "attributes_groups": [
+                "67938a85a4936387e6897ee2_group"
+            ],
+            "available": true,
+            "dietary_labels": []
+        }
+    ],
+    "collections": [
+        {
+            "name": "Plat Rice",
+            "position": 0,
+            "image_url": "/uploads/categories/default.png",
+            "sections": [
+                {
+                    "name": "Plat Rice",
+                    "position": 1,
+                    "products": [
+                        "67923d935bf556bb7d2d493f",
+                        "679344539f7350bceff2bd93",
+                        "6793457c9f7350bceff2bff8",
+                        "6793458f9f7350bceff2c0bc",
+                        "679348629f7350bceff2ceb4",
+                        "6793489c9f7350bceff2d044",
+                        "67937660a4936387e6885374"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Plat Pasta",
+            "position": 1,
+            "image_url": "/uploads/categories/default.png",
+            "sections": [
+                {
+                    "name": "Plat Pasta",
+                    "position": 1,
+                    "products": [
+                        "67923d9a5bf556bb7d2d4981",
+                        "67934f2a9f7350bceff2ea60",
+                        "67934f5a9f7350bceff2ecb4",
+                        "67934f859f7350bceff2ef18",
+                        "67934fc19f7350bceff2f199",
+                        "67934ff59f7350bceff2f437",
+                        "67937647a4936387e6884cd8"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Frites & Boisson",
+            "position": 2,
+            "image_url": "/uploads/categories/default.png",
+            "sections": [
+                {
+                    "name": "Frites & Boisson",
+                    "position": 1,
+                    "products": [
+                        "679349f59f7350bceff2d5d1"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Boisson ",
+            "position": 3,
+            "image_url": "/uploads/categories/default.png",
+            "sections": [
+                {
+                    "name": "Boisson ",
+                    "position": 1,
+                    "products": [
+                        "6792405b5bf556bb7d2d4c51",
+                        "679241055bf556bb7d2d4da3",
+                        "679241635bf556bb7d2d4f4a",
+                        "679241685bf556bb7d2d4fde",
+                        "67938235a4936387e688eed9"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nos Offres",
+            "position": 4,
+            "image_url": "/uploads/categories/default.png",
+            "sections": [
+                {
+                    "name": "Nos Offres",
+                    "position": 1,
+                    "products": [
+                        "6793471c9f7350bceff2c886",
+                        "679347499f7350bceff2c96b",
+                        "679347749f7350bceff2ca61",
+                        "679347e09f7350bceff2cc3e",
+                        "67934d699f7350bceff2e1cf",
+                        "67937590a4936387e688408b"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Menu",
+            "position": 5,
+            "image_url": "/uploads/categories/default.png",
+            "sections": [
+                {
+                    "name": "Menu",
+                    "position": 1,
+                    "products": [
+                        "679350a49f7350bceff2fe1c"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "C.cuisne",
+            "position": 6,
+            "image_url": "/uploads/categories/default.png",
+            "sections": [
+                {
+                    "name": "C.cuisne",
+                    "position": 1,
+                    "products": [
+                        "67923ba75bf556bb7d2d4659",
+                        "67923ba95bf556bb7d2d4685",
+                        "67923bc15bf556bb7d2d47ea",
+                        "67923c165bf556bb7d2d48c7",
+                        "67923f255bf556bb7d2d4afd",
+                        "67934b3d9f7350bceff2db1b",
+                        "67934c6c9f7350bceff2df34",
+                        "679350599f7350bceff2f939",
+                        "6793506e9f7350bceff2fb47",
+                        "679375fba4936387e6884773"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dessert",
+            "position": 7,
+            "image_url": "/uploads/categories/default.png",
+            "sections": [
+                {
+                    "name": "Dessert",
+                    "position": 1,
+                    "products": [
+                        "67938a85a4936387e6897ee2"
+                    ]
+                }
+            ]
+        }
+    ],
+    "supercollections": [],
+    "packagings": []
 }
