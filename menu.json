@@ -1,106 +1,8 @@
 {
     "attributes": [
         {
-            "id": "67923ba75bf556bb7d2d465f",
-            "name": "1 Pilon ",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67923ba95bf556bb7d2d468f",
-            "name": "2 Pilon",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67923bc15bf556bb7d2d47f2",
-            "name": "3 Pilon ",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
             "id": "67923c165bf556bb7d2d48cd",
             "name": "2 Wings",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67923d935bf556bb7d2d4945",
-            "name": "Kebsa Poulet",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67923d9a5bf556bb7d2d498b",
-            "name": "Pasta Poulet",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67923f255bf556bb7d2d4b03",
-            "name": "Ration Frite",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "6792405b5bf556bb7d2d4c57",
-            "name": "Coca Cola 25 Cl",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "6792405b5bf556bb7d2d4c5b",
-            "name": "Coca Zero 25 Cl",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "6792405b5bf556bb7d2d4c5f",
-            "name": "Hawaii 25 Cl",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "6792405b5bf556bb7d2d4c63",
-            "name": "Sprite 25 Cl",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "6792405b5bf556bb7d2d4c67",
-            "name": "Poms 25 Cl",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "679241055bf556bb7d2d4da9",
-            "name": "Coca Cola 1l",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "679241055bf556bb7d2d4dad",
-            "name": "Hawaii 1l",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "679241055bf556bb7d2d4db1",
-            "name": "Sprite 1l",
             "selected_by_default": false,
             "price_impact": 0,
             "available": true
@@ -120,20 +22,6 @@
             "available": true
         },
         {
-            "id": "6793471c9f7350bceff2c88c",
-            "name": "1/2 Poulet ",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "679347499f7350bceff2c971",
-            "name": "Poulet Entier",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
             "id": "679347749f7350bceff2ca67",
             "name": "3 Ailes",
             "selected_by_default": false,
@@ -148,43 +36,8 @@
             "available": true
         },
         {
-            "id": "67934b3d9f7350bceff2db21",
-            "name": "2 Poulet",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "67934c6c9f7350bceff2df38",
-            "name": "4 Frites",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "679350599f7350bceff2f93f",
-            "name": "Chili Thai",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "6793506e9f7350bceff2fb4d",
-            "name": "Tartar",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
             "id": "67937590a4936387e6884091",
             "name": "1 Pilon",
-            "selected_by_default": false,
-            "price_impact": 0,
-            "available": true
-        },
-        {
-            "id": "679375fba4936387e6884777",
-            "name": "2 Wings ",
             "selected_by_default": false,
             "price_impact": 0,
             "available": true
@@ -227,39 +80,6 @@
     ],
     "attribute_groups": [
         {
-            "id": "67923ba75bf556bb7d2d4659_group",
-            "name": "1 Pilon ",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "67923ba75bf556bb7d2d465f"
-            ]
-        },
-        {
-            "id": "67923ba95bf556bb7d2d4685_group",
-            "name": "2 Pilon",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "67923ba95bf556bb7d2d468f"
-            ]
-        },
-        {
-            "id": "67923bc15bf556bb7d2d47ea_group",
-            "name": "3 Pilon ",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "67923bc15bf556bb7d2d47f2"
-            ]
-        },
-        {
             "id": "67923c165bf556bb7d2d48c7_group",
             "name": "2 Wings",
             "min": 0,
@@ -268,65 +88,6 @@
             "multiple_selection": false,
             "attributes": [
                 "67923c165bf556bb7d2d48cd"
-            ]
-        },
-        {
-            "id": "67923d935bf556bb7d2d493f_group",
-            "name": "Kebsa Poulet",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "67923d935bf556bb7d2d4945"
-            ]
-        },
-        {
-            "id": "67923d9a5bf556bb7d2d4981_group",
-            "name": "Pasta Poulet",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "67923d9a5bf556bb7d2d498b"
-            ]
-        },
-        {
-            "id": "67923f255bf556bb7d2d4afd_group",
-            "name": "Ration Frite",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "67923f255bf556bb7d2d4b03"
-            ]
-        },
-        {
-            "id": "6792405b5bf556bb7d2d4c51_group",
-            "name": "Canette",
-            "min": 0,
-            "max": 5,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "6792405b5bf556bb7d2d4c57",
-                "6792405b5bf556bb7d2d4c5b",
-                "6792405b5bf556bb7d2d4c5f",
-                "6792405b5bf556bb7d2d4c63",
-                "6792405b5bf556bb7d2d4c67"
-            ]
-        },
-        {
-            "id": "679241055bf556bb7d2d4da3_group",
-            "name": "Bouteille 1l",
-            "min": 0,
-            "max": 3,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "679241055bf556bb7d2d4da9"
             ]
         },
         {
@@ -352,28 +113,6 @@
             ]
         },
         {
-            "id": "6793471c9f7350bceff2c886_group",
-            "name": "1/2 Poulet ",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "6793471c9f7350bceff2c88c"
-            ]
-        },
-        {
-            "id": "679347499f7350bceff2c96b_group",
-            "name": "Poulet Entier",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "679347499f7350bceff2c971"
-            ]
-        },
-        {
             "id": "679347749f7350bceff2ca61_group",
             "name": "3 Ailes",
             "min": 0,
@@ -396,50 +135,6 @@
             ]
         },
         {
-            "id": "67934b3d9f7350bceff2db1b_group",
-            "name": "2 Poulet",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "67934b3d9f7350bceff2db21"
-            ]
-        },
-        {
-            "id": "67934c6c9f7350bceff2df34_group",
-            "name": "4 Frites",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "67934c6c9f7350bceff2df38"
-            ]
-        },
-        {
-            "id": "679350599f7350bceff2f939_group",
-            "name": "Chili Thai",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "679350599f7350bceff2f93f"
-            ]
-        },
-        {
-            "id": "6793506e9f7350bceff2fb47_group",
-            "name": "Tartar",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "6793506e9f7350bceff2fb4d"
-            ]
-        },
-        {
             "id": "67937590a4936387e688408b_group",
             "name": "1 Pilon",
             "min": 0,
@@ -448,17 +143,6 @@
             "multiple_selection": false,
             "attributes": [
                 "67937590a4936387e6884091"
-            ]
-        },
-        {
-            "id": "679375fba4936387e6884773_group",
-            "name": "2 Wings ",
-            "min": 0,
-            "max": 1,
-            "collapse": false,
-            "multiple_selection": false,
-            "attributes": [
-                "679375fba4936387e6884777"
             ]
         },
         {
@@ -489,42 +173,6 @@
     ],
     "products": [
         {
-            "id": "67923ba75bf556bb7d2d4659",
-            "name": "1 Pilon ",
-            "description": "",
-            "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "67923ba75bf556bb7d2d4659_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "67923ba95bf556bb7d2d4685",
-            "name": "2 Pilon",
-            "description": "",
-            "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "67923ba95bf556bb7d2d4685_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "67923bc15bf556bb7d2d47ea",
-            "name": "3 Pilon ",
-            "description": "",
-            "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "67923bc15bf556bb7d2d47ea_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
             "id": "67923c165bf556bb7d2d48c7",
             "name": "2 Wings",
             "description": "",
@@ -532,66 +180,6 @@
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
                 "67923c165bf556bb7d2d48c7_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "67923d935bf556bb7d2d493f",
-            "name": "Kebsa Poulet",
-            "description": "",
-            "price": 25,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "67923d935bf556bb7d2d493f_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "67923d9a5bf556bb7d2d4981",
-            "name": "Pasta Poulet",
-            "description": "",
-            "price": 25,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "67923d9a5bf556bb7d2d4981_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "67923f255bf556bb7d2d4afd",
-            "name": "Ration Frite",
-            "description": "",
-            "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "67923f255bf556bb7d2d4afd_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "6792405b5bf556bb7d2d4c51",
-            "name": "Canette",
-            "description": "",
-            "price": 10,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "6792405b5bf556bb7d2d4c51_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "679241055bf556bb7d2d4da3",
-            "name": "Bouteille 1l",
-            "description": "",
-            "price": 15,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "679241055bf556bb7d2d4da3_group"
             ],
             "available": true,
             "dietary_labels": []
@@ -705,30 +293,6 @@
                     ]
                 }
             ],
-            "dietary_labels": []
-        },
-        {
-            "id": "6793471c9f7350bceff2c886",
-            "name": "1/2 Poulet ",
-            "description": "",
-            "price": 55,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "6793471c9f7350bceff2c886_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "679347499f7350bceff2c96b",
-            "name": "Poulet Entier",
-            "description": "",
-            "price": 80,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "679347499f7350bceff2c96b_group"
-            ],
-            "available": true,
             "dietary_labels": []
         },
         {
@@ -848,30 +412,6 @@
                     ]
                 }
             ],
-            "dietary_labels": []
-        },
-        {
-            "id": "67934b3d9f7350bceff2db1b",
-            "name": "2 Poulet",
-            "description": "",
-            "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "67934b3d9f7350bceff2db1b_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "67934c6c9f7350bceff2df34",
-            "name": "4 Frites",
-            "description": "",
-            "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "67934c6c9f7350bceff2df34_group"
-            ],
-            "available": true,
             "dietary_labels": []
         },
         {
@@ -1077,30 +617,6 @@
             "dietary_labels": []
         },
         {
-            "id": "679350599f7350bceff2f939",
-            "name": "Chili Thai",
-            "description": "",
-            "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "679350599f7350bceff2f939_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "6793506e9f7350bceff2fb47",
-            "name": "Tartar",
-            "description": "",
-            "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "6793506e9f7350bceff2fb47_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
             "id": "679350a49f7350bceff2fe1c",
             "name": "Chili Thai & Tartar",
             "price": 5,
@@ -1137,18 +653,6 @@
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [
                 "67937590a4936387e688408b_group"
-            ],
-            "available": true,
-            "dietary_labels": []
-        },
-        {
-            "id": "679375fba4936387e6884773",
-            "name": "2 Wings ",
-            "description": "",
-            "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "attributes_groups": [
-                "679375fba4936387e6884773_group"
             ],
             "available": true,
             "dietary_labels": []
