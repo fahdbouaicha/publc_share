@@ -184,9 +184,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "67923ba75bf556bb7d2d465f",
@@ -213,9 +213,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "67923ba95bf556bb7d2d468f",
@@ -242,9 +242,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "67923d935bf556bb7d2d4945",
@@ -311,9 +311,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "6793471c9f7350bceff2c88c",
@@ -340,9 +340,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "67923d935bf556bb7d2d4945",
@@ -369,7 +369,7 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
+                    "multiple_selection": true,
                     "min": 1,
                     "max": 1,
                     "combo_items": [
@@ -442,9 +442,9 @@
             "combo_groups": [
                 {
                     "name": "Requis",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "67934c6c9f7350bceff2df38",
@@ -507,9 +507,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "67923ba75bf556bb7d2d465f",
@@ -536,9 +536,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "67923ba95bf556bb7d2d468f",
@@ -565,9 +565,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "67923bc15bf556bb7d2d47f2",
@@ -594,9 +594,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "6793471c9f7350bceff2c88c",
@@ -623,9 +623,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "67923d9a5bf556bb7d2d498b",
@@ -721,9 +721,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "679375fba4936387e6884777",
@@ -750,9 +750,9 @@
             "combo_groups": [
                 {
                     "name": "Choix",
-                    "multiple_selection": false,
-                    "min": 1,
-                    "max": 1,
+                    "multiple_selection": true,
+                    "min": 2,
+                    "max": 2,
                     "combo_items": [
                         {
                             "product_id": "679375fba4936387e6884777",
