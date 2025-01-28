@@ -417,7 +417,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [],
-            "available": false,
+            "available": true,
             "dietary_labels": []
         },
         {
@@ -427,7 +427,7 @@
             "price": 1,
             "image_url": "https://i.imgur.com/Qj5MlEH.png",
             "attributes_groups": [],
-            "available": false,
+            "available": true,
             "dietary_labels": []
         },
         {
