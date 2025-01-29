@@ -7,7 +7,7 @@
             "name": "1 Pilon ",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -17,7 +17,7 @@
             "name": "2 Pilon",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -27,7 +27,7 @@
             "name": "3 Pilon ",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -37,7 +37,7 @@
             "name": "2 Wings",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -47,7 +47,7 @@
             "name": "Kebsa Poulet",
             "description": "",
             "price": 25,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -57,7 +57,7 @@
             "name": "Pasta Poulet",
             "description": "",
             "price": 25,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -67,7 +67,7 @@
             "name": "Ration Frite",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -77,7 +77,7 @@
             "name": "Coca Cola 25 Cl",
             "description": "",
             "price": 10,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -87,7 +87,7 @@
             "name": "Coca Zero 25 Cl",
             "description": "",
             "price": 10,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -97,7 +97,7 @@
             "name": "Hawaii 25 Cl",
             "description": "",
             "price": 10,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -107,7 +107,7 @@
             "name": "Sprite 25 Cl",
             "description": "",
             "price": 10,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -117,7 +117,7 @@
             "name": "Poms 25 Cl",
             "description": "",
             "price": 10,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -127,7 +127,7 @@
             "name": "Coca Cola 1l",
             "description": "",
             "price": 15,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -137,7 +137,7 @@
             "name": "Hawaii 1l",
             "description": "",
             "price": 15,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -147,7 +147,7 @@
             "name": "Sprite 1l",
             "description": "",
             "price": 15,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -157,7 +157,7 @@
             "name": "Jus Multifruit 200 Ml",
             "description": "",
             "price": 15,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -167,7 +167,7 @@
             "name": "Jus Orange 200 Ml",
             "description": "",
             "price": 15,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -176,7 +176,7 @@
             "id": "679344539f7350bceff2bd99",
             "name": "1 Pilon & Rice",
             "price": 35,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "1 Pilon & Rice",
             "attributes_groups": [],
@@ -205,7 +205,7 @@
             "id": "6793457c9f7350bceff2bffe",
             "name": "2 Pilon & Rice",
             "price": 50,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -234,7 +234,7 @@
             "id": "6793458f9f7350bceff2c0c6",
             "name": "3 Pilon & Rice",
             "price": 60,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -264,7 +264,7 @@
             "name": "1/2 Poulet ",
             "description": "",
             "price": 55,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -274,7 +274,7 @@
             "name": "Poulet Entier",
             "description": "",
             "price": 80,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -284,7 +284,7 @@
             "name": "3 Ailes",
             "description": "",
             "price": 15,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -294,7 +294,7 @@
             "name": "Cornet de Frites",
             "description": "",
             "price": 20,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -303,7 +303,7 @@
             "id": "679348629f7350bceff2ceba",
             "name": "1/2 Poulet & Rice",
             "price": 70,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -332,7 +332,7 @@
             "id": "6793489c9f7350bceff2d04a",
             "name": "Poulet & Rice",
             "price": 95,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -361,7 +361,7 @@
             "id": "679349f59f7350bceff2d5d5",
             "name": "Frite & Boisson",
             "price": 20,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -415,7 +415,7 @@
             "name": "2 Poulet",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -425,7 +425,7 @@
             "name": "4 Frites",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -434,7 +434,7 @@
             "id": "67934d699f7350bceff2e1d5",
             "name": "Family Box",
             "price": 295,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -499,7 +499,7 @@
             "id": "67934f2a9f7350bceff2ea66",
             "name": "1 Pilon & Pasta",
             "price": 35,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -528,7 +528,7 @@
             "id": "67934f5a9f7350bceff2ecba",
             "name": "2 Pilon & Pasta",
             "price": 50,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -557,7 +557,7 @@
             "id": "67934f859f7350bceff2ef1e",
             "name": "3 Pilon & Pasta",
             "price": 60,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -586,7 +586,7 @@
             "id": "67934fc19f7350bceff2f19f",
             "name": "1/2 Poulte & Pasta",
             "price": 70,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -615,7 +615,7 @@
             "id": "67934ff59f7350bceff2f43d",
             "name": "Poulet & Pasta",
             "price": 95,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -645,7 +645,7 @@
             "name": "Chili Thai",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -655,7 +655,7 @@
             "name": "Tartar",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -664,7 +664,7 @@
             "id": "679350a49f7350bceff2fe22",
             "name": "Chili Thai & Tartar",
             "price": 5,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -694,7 +694,7 @@
             "name": "1 Pilon",
             "description": "",
             "price": 15,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -704,7 +704,7 @@
             "name": "2 Wings ",
             "description": "",
             "price": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -713,7 +713,7 @@
             "id": "67937647a4936387e6884cde",
             "name": "2wings & Pasta",
             "price": 35,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -742,7 +742,7 @@
             "id": "67937660a4936387e688537e",
             "name": "2wings & Rice",
             "price": 35,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "extra_image_urls": [],
             "description": "",
             "attributes_groups": [],
@@ -772,7 +772,7 @@
             "name": "Eau 33cl",
             "description": "",
             "price": 5,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -782,7 +782,7 @@
             "name": "Lotus",
             "description": "",
             "price": 20,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -792,7 +792,7 @@
             "name": "Fraise",
             "description": "",
             "price": 20,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -802,7 +802,7 @@
             "name": "Nutella",
             "description": "",
             "price": 20,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -812,7 +812,7 @@
             "name": "Oreo",
             "description": "",
             "price": 20,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "attributes_groups": [],
             "available": true,
             "dietary_labels": []
@@ -822,7 +822,7 @@
         {
             "name": "Plat Rice",
             "position": 0,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Plat Rice",
@@ -842,7 +842,7 @@
         {
             "name": "Plat Pasta",
             "position": 1,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Plat Pasta",
@@ -862,7 +862,7 @@
         {
             "name": "Frites & Boisson",
             "position": 2,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Frites & Boisson",
@@ -876,7 +876,7 @@
         {
             "name": "Boisson ",
             "position": 3,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Boisson ",
@@ -900,7 +900,7 @@
         {
             "name": "Nos Offres",
             "position": 4,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Nos Offres",
@@ -919,7 +919,7 @@
         {
             "name": "Menu",
             "position": 5,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Menu",
@@ -931,32 +931,9 @@
             ]
         },
         {
-            "name": "C.cuisne",
-            "position": 6,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
-            "sections": [
-                {
-                    "name": "C.cuisne",
-                    "position": 1,
-                    "products": [
-                        "67923ba75bf556bb7d2d465f",
-                        "67923ba95bf556bb7d2d468f",
-                        "67923bc15bf556bb7d2d47f2",
-                        "67923c165bf556bb7d2d48cd",
-                        "67923f255bf556bb7d2d4b03",
-                        "67934b3d9f7350bceff2db21",
-                        "67934c6c9f7350bceff2df38",
-                        "679350599f7350bceff2f93f",
-                        "6793506e9f7350bceff2fb4d",
-                        "679375fba4936387e6884777"
-                    ]
-                }
-            ]
-        },
-        {
             "name": "Dessert",
-            "position": 7,
-            "image_url": "https://i.imgur.com/Qj5MlEH.png",
+            "position": 6,
+            "image_url": "http://rabat-crusty-poulet.ddns.net:8000/api/uploads/categories/default.png",
             "sections": [
                 {
                     "name": "Dessert",
