@@ -739,7 +739,7 @@
 "name": "Fraise",
 "description": "",
 "price": 30,
-"image_url": "https://imgur.com/Qj5MlEH",
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739554011/Teramisu_Fraise_d5zzjk.jpg",
 "attributes_groups": [],
 "available": true,
 "dietary_labels": []
@@ -749,7 +749,7 @@
 "name": "Nutella",
 "description": "",
 "price": 30,
-"image_url": "https://imgur.com/Qj5MlEH",
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739554011/Teramisu_Nutella_dijrgi.jpg",
 "attributes_groups": [],
 "available": true,
 "dietary_labels": []
@@ -759,7 +759,7 @@
 "name": "Oreo",
 "description": "",
 "price": 30,
-"image_url": "https://imgur.com/Qj5MlEH",
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739554011/Teramisu_Oreo_rw05tt.jpg",
 "attributes_groups": [],
 "available": true,
 "dietary_labels": []
