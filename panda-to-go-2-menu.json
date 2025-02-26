@@ -1,0 +1,380 @@
+{
+"attributes": [],
+"attribute_groups": [],
+"products": [
+{
+"id": "6788fa6d98219e670f31f4f4",
+"name": "Salade Gambas Tempura",
+"description": "",
+"price": 85,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Salade_Gambas_tempura_cztffv.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678912fd98219e670f31fc41",
+"name": "Poke Shrimp",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Poke_shrimp_yxlds7.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789141398219e670f320312",
+"name": "Nems Poulet",
+"description": "",
+"price": 60,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Nems_ordxrb.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789141998219e670f320384",
+"name": "Nems Crevettes",
+"description": "",
+"price": 60,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Nems_ordxrb.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678914e598219e670f3208cc",
+"name": "Dynamite Gambas",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Gambas_Dynamites_wxlfsa.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789154f98219e670f320c23",
+"name": "Pince de Crabe ",
+"description": "",
+"price": 65,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Pinces_de_crabe_lstoom.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789333898219e670f32dd7d",
+"name": "Coca-cola 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/coca_kxtywg.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789336398219e670f32e866",
+"name": "Coca-cola Zero 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/coca_zero_waetpt.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789336d98219e670f32eace",
+"name": "Poms 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593630/poms_rgvfai.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789337a98219e670f32efdf",
+"name": "Hawai 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/hawai_ndkaw0.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789338898219e670f32f507",
+"name": "Sprite 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593630/sprit_teyyfs.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893c8298219e670f342c68",
+"name": "California 24 Pcs",
+"description": "",
+"price": 230,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_California_ofre6w.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893cb898219e670f342e84",
+"name": "Silver 24 Pcs",
+"description": "",
+"price": 280,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_silver_trij0i.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893d3898219e670f3435c8",
+"name": "Crunchy 24 Pcs",
+"description": "",
+"price": 240,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_crunshy_w0v0ba.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893d5198219e670f343c12",
+"name": "Gold 24 Pcs",
+"description": "",
+"price": 300,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_gold_tevn3z.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893d9398219e670f344400",
+"name": "California 36 Pcs",
+"description": "",
+"price": 350,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/36_California_eakerm.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893dae98219e670f344809",
+"name": "Silver 36 Pcs",
+"description": "",
+"price": 420,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807698/36_sliver_fpk9e2.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893dcb98219e670f344c28",
+"name": "Crunchy 36 Pcs",
+"description": "",
+"price": 370,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/36_crunshy_pf4qzo.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789417398219e670f3488df",
+"name": "Silver 50 Pcs ",
+"description": "",
+"price": 550,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807698/50_silver_w7g9kf.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789419398219e670f348ee4",
+"name": "Gold 50 Pcs",
+"description": "",
+"price": 650,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807698/50_gold_dpg9cm.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678a22b02d7448794c428cb9",
+"name": "Gold 36 Pcs ",
+"description": "",
+"price": 450,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/36_gold_egpc2u.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67bf540d94f1244c612d51e2",
+"name": "Schweppes 33cl",
+"description": "Schweppes 33cl",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593630/schweppes_citron_isemum.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67bf547794f1244c612d6096",
+"name": "Oulmès 33cl",
+"description": "Oulmès 33cl",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/oulmas_eewjvh.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+}
+],
+"collections": [
+{
+"name": "Assortiment Sushi 24 Pcs",
+"position": 0,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Assortiment Sushi 24 Pcs",
+"position": 1,
+"products": [
+"67893c8298219e670f342c68",
+"67893cb898219e670f342e84",
+"67893d3898219e670f3435c8",
+"67893d5198219e670f343c12"
+]
+}
+]
+},
+{
+"name": "Assortiment Sushi 36 Pcs",
+"position": 1,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Assortiment Sushi 36 Pcs",
+"position": 1,
+"products": [
+"67893d9398219e670f344400",
+"67893dae98219e670f344809",
+"67893dcb98219e670f344c28",
+"678a22b02d7448794c428cb9"
+]
+}
+]
+},
+{
+"name": "Soda",
+"position": 2,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Soda",
+"position": 1,
+"products": [
+"6789333898219e670f32dd7d",
+"6789336398219e670f32e866",
+"6789336d98219e670f32eace",
+"6789337a98219e670f32efdf",
+"6789338898219e670f32f507",
+"67bf540d94f1244c612d51e2",
+"67bf547794f1244c612d6096"
+]
+}
+]
+},
+{
+"name": "Salad",
+"position": 3,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Salad",
+"position": 1,
+"products": [
+"6788fa6d98219e670f31f4f4"
+]
+}
+]
+},
+{
+"name": "Poke Bowl",
+"position": 4,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Poke Bowl",
+"position": 1,
+"products": [
+"678912fd98219e670f31fc41"
+]
+}
+]
+},
+{
+"name": "Nems",
+"position": 5,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Nems",
+"position": 1,
+"products": [
+"6789141398219e670f320312",
+"6789141998219e670f320384"
+]
+}
+]
+},
+{
+"name": "Dynamites",
+"position": 6,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Dynamites",
+"position": 1,
+"products": [
+"678914e598219e670f3208cc"
+]
+}
+]
+},
+{
+"name": "Tempura",
+"position": 7,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Tempura",
+"position": 1,
+"products": [
+"6789154f98219e670f320c23"
+]
+}
+]
+},
+{
+"name": "Bateau 50 Pcs",
+"position": 8,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Bateau 50 Pcs",
+"position": 1,
+"products": [
+"6789417398219e670f3488df",
+"6789419398219e670f348ee4"
+]
+}
+]
+}
+],
+"supercollections": [],
+"packagings": []
+}
