@@ -376,12 +376,12 @@
 "collections": [
 {
 "name": "Assortiment Sushi 24 Pcs",
-"position": 0,
+"position": 7,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Assortiment Sushi 24 Pcs",
-"position": 1,
+"position": 7,
 "products": [
 "67893c8298219e670f342c68",
 "67893cb898219e670f342e84",
@@ -393,12 +393,12 @@
 },
 {
 "name": "Assortiment Sushi 36 Pcs",
-"position": 1,
+"position": 8,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Assortiment Sushi 36 Pcs",
-"position": 1,
+"position": 8,
 "products": [
 "67893d9398219e670f344400",
 "67893dae98219e670f344809",
@@ -410,12 +410,12 @@
 },
 {
 "name": "Soda",
-"position": 2,
+"position": 11,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Soda",
-"position": 1,
+"position": 11,
 "products": [
 "6789333898219e670f32dd7d",
 "6789336398219e670f32e866",
@@ -430,12 +430,12 @@
 },
 {
 "name": "Salad",
-"position": 3,
+"position": 0,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Salad",
-"position": 1,
+"position": 0,
 "products": [
 "6788fa6d98219e670f31f4f4"
 ]
@@ -444,7 +444,7 @@
 },
 {
 "name": "Poke Bowl",
-"position": 4,
+"position": 1,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
@@ -458,12 +458,12 @@
 },
 {
 "name": "Nems",
-"position": 5,
+"position": 4,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Nems",
-"position": 1,
+"position": 4,
 "products": [
 "6789141398219e670f320312",
 "6789141998219e670f320384"
@@ -473,12 +473,12 @@
 },
 {
 "name": "Dynamites",
-"position": 6,
+"position": 2,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Dynamites",
-"position": 1,
+"position": 2,
 "products": [
 "678914e598219e670f3208cc"
 ]
@@ -487,12 +487,12 @@
 },
 {
 "name": "Tempura",
-"position": 7,
+"position": 3,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Tempura",
-"position": 1,
+"position": 3,
 "products": [
 "6789154f98219e670f320c23"
 ]
@@ -501,12 +501,12 @@
 },
 {
 "name": "Fried Rice",
-"position": 8,
+"position": 5,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Fried Rice",
-"position": 1,
+"position": 5,
 "products": [
 "67891e7c98219e670f32305e",
 "67891ee098219e670f323180",
@@ -520,12 +520,12 @@
 },
 {
 "name": "Wok Noodels",
-"position": 9,
+"position": 6,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Wok Noodels",
-"position": 1,
+"position": 6,
 "products": [
 "67891ce998219e670f322126",
 "67891d5998219e670f3223ea",
@@ -539,12 +539,12 @@
 },
 {
 "name": "Bateau 50 Pcs",
-"position": 10,
+"position": 9,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Bateau 50 Pcs",
-"position": 1,
+"position": 9,
 "products": [
 "6789417398219e670f3488df",
 "6789419398219e670f348ee4"
@@ -554,12 +554,12 @@
 },
 {
 "name": "Ramadan Karim",
-"position": 11,
+"position": 12,
 "image_url": "https://imgur.com/Qj5MlEH",
 "sections": [
 {
 "name": "Ramadan Karim",
-"position": 1,
+"position": 12,
 "products": [
 "67c32a43078a8d1d9796bb5d",
 "67c32a6e078a8d1d9796bfb5"
