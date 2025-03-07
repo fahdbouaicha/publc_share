@@ -1,0 +1,696 @@
+{
+"attributes": [],
+"attribute_groups": [],
+"products": [
+{
+"id": "6788fa2b98219e670f31f3da",
+"name": "Salade Panda",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363176/Salade-panda_wp3txg.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788fa4898219e670f31f498",
+"name": "Salade Viet",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363177/salade-viet_sg9bmk.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788fa6d98219e670f31f4f4",
+"name": "Salade Gambas Tempura",
+"description": "",
+"price": 85,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363176/Salade-gambas-tempura_ooqxq3.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788fa8d98219e670f31f5ca",
+"name": "Salade Ceviche Fruit Mer",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363176/Salade-ceviche-fruit-de-mer_ryrjjk.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678912f498219e670f31fbd0",
+"name": "Poke Veggie",
+"description": "",
+"price": 80,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363177/poke-veggie_vufnnr.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678912fd98219e670f31fc41",
+"name": "Poke Shrimp",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/poke-shrimp_qszenw.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789130f98219e670f31fd1e",
+"name": "Poke Salmon",
+"description": "",
+"price": 110,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/poke-soumou_zso2vu.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789136198219e670f31ff9e",
+"name": "Poke Norvegien",
+"description": "",
+"price": 110,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363176/poke-norvegien_ptx7ot.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789136f98219e670f320112",
+"name": "Poke Hawaiin",
+"description": "",
+"price": 115,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/poke-Hawaiian_k86yc9.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789141398219e670f320312",
+"name": "Nems Poulet",
+"description": "",
+"price": 60,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Nems_ordxrb.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789141998219e670f320384",
+"name": "Nems Crevettes",
+"description": "",
+"price": 60,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Nems_ordxrb.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678914e598219e670f3208cc",
+"name": "Dynamite Gambas",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Gambas_Dynamites_wxlfsa.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789154f98219e670f320c23",
+"name": "Pince de Crabe ",
+"description": "",
+"price": 65,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Pinces_de_crabe_lstoom.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891ce998219e670f322126",
+"name": "Veggie Nodels",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Veggie_Noodles_h2ojim.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891d5998219e670f3223ea",
+"name": "Chicken Nodels",
+"description": "",
+"price": 85,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Chicken_Noodles_m2jdhk.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891d8a98219e670f3226e3",
+"name": "Beef Nodels",
+"description": "",
+"price": 100,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Beef_Noodles_orvao6.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891dd798219e670f3229f1",
+"name": "Shrimp Nodels",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Shrimp_Noodles_ifwk9i.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891df498219e670f322c43",
+"name": "Sea Food Nodels",
+"description": "",
+"price": 105,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Sea_Food_Noodles_xcmjlk.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891e5798219e670f322ef8",
+"name": "Special Panda",
+"description": "",
+"price": 110,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Special_Panda_mpkk2b.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891e7c98219e670f32305e",
+"name": "Veggie Fried Rice",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Veggie_Fried_Rice_korycq.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891ee098219e670f323180",
+"name": "Chicken Fried Rice",
+"description": "",
+"price": 85,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Chicken_Fried_Rice_ximxci.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891f1298219e670f3233ca",
+"name": "Beef Fried Rice",
+"description": "",
+"price": 100,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Boeuf_Fried_Rice_owxgse.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891f3698219e670f3235a5",
+"name": "Shrimp Fried Rice",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Shrimp_Fried_Rice_z0k4x1.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891f4598219e670f3236b1",
+"name": "Sea Food Fried Rice",
+"description": "",
+"price": 105,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Sea_Food_Fried_Rice_d7oekt.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891f7998219e670f323a63",
+"name": "Special Fried Rice",
+"description": "",
+"price": 110,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Special_Fried_Rice_m0imow.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789333898219e670f32dd7d",
+"name": "Coca-cola 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/coca_kxtywg.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789336398219e670f32e866",
+"name": "Coca-cola Zero 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/coca_zero_waetpt.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789336d98219e670f32eace",
+"name": "Poms 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593630/poms_rgvfai.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789337a98219e670f32efdf",
+"name": "Hawai 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/hawai_ndkaw0.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789338898219e670f32f507",
+"name": "Sprite 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593630/sprit_teyyfs.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678935b598219e670f335094",
+"name": "Tiramisu",
+"description": "",
+"price": 50,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363177/Tiramissu_x32tsv.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789364e98219e670f3362c1",
+"name": "Pannacota ",
+"description": "",
+"price": 50,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/panacota_cmufut.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789370398219e670f338c24",
+"name": "Mousse Chocolat",
+"description": "",
+"price": 50,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/mousse_chocolat_pjcrrm.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893c8298219e670f342c68",
+"name": "California 24 Pcs",
+"description": "",
+"price": 230,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_California_ofre6w.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893cb898219e670f342e84",
+"name": "Silver 24 Pcs",
+"description": "",
+"price": 280,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_silver_trij0i.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893d3898219e670f3435c8",
+"name": "Crunchy 24 Pcs",
+"description": "",
+"price": 240,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_crunshy_w0v0ba.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893d5198219e670f343c12",
+"name": "Gold 24 Pcs",
+"description": "",
+"price": 300,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_gold_tevn3z.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893d9398219e670f344400",
+"name": "California 36 Pcs",
+"description": "",
+"price": 350,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/36_California_eakerm.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893dae98219e670f344809",
+"name": "Silver 36 Pcs",
+"description": "",
+"price": 420,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807698/36_sliver_fpk9e2.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893dcb98219e670f344c28",
+"name": "Crunchy 36 Pcs",
+"description": "",
+"price": 370,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/36_crunshy_pf4qzo.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789417398219e670f3488df",
+"name": "Silver 50 Pcs ",
+"description": "",
+"price": 550,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807698/50_silver_w7g9kf.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789419398219e670f348ee4",
+"name": "Gold 50 Pcs",
+"description": "",
+"price": 650,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807698/50_gold_dpg9cm.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678a22b02d7448794c428cb9",
+"name": "Gold 36 Pcs ",
+"description": "",
+"price": 450,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/36_gold_egpc2u.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67bf540d94f1244c612d51e2",
+"name": "Schweppes 33cl",
+"description": "Schweppes 33cl",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593630/schweppes_citron_isemum.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67bf547794f1244c612d6096",
+"name": "Oulmès 33cl",
+"description": "Oulmès 33cl",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/oulmas_eewjvh.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67c32a43078a8d1d9796bb5d",
+"name": "Classic Ftor",
+"description": "",
+"price": 50,
+"image_url": "https://imgur.com/Qj5MlEH",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67c32a6e078a8d1d9796bfb5",
+"name": "Dates & Chabakia",
+"description": "",
+"price": 20,
+"image_url": "https://imgur.com/Qj5MlEH",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+}
+],
+"collections": [
+{
+"name": "Dessert",
+"position": 11,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Dessert",
+"position": 11,
+"products": [
+"678935b598219e670f335094",
+"6789364e98219e670f3362c1",
+"6789370398219e670f338c24"
+]
+}
+]
+},
+{
+"name": "Assortiment Sushi 24 Pcs",
+"position": 7,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Assortiment Sushi 24 Pcs",
+"position": 7,
+"products": [
+"67893c8298219e670f342c68",
+"67893cb898219e670f342e84",
+"67893d3898219e670f3435c8",
+"67893d5198219e670f343c12"
+]
+}
+]
+},
+{
+"name": "Assortiment Sushi 36 Pcs",
+"position": 8,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Assortiment Sushi 36 Pcs",
+"position": 8,
+"products": [
+"67893d9398219e670f344400",
+"67893dae98219e670f344809",
+"67893dcb98219e670f344c28",
+"678a22b02d7448794c428cb9"
+]
+}
+]
+},
+{
+"name": "Soda",
+"position": 10,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Soda",
+"position": 1,
+"products": [
+"6789333898219e670f32dd7d",
+"6789336398219e670f32e866",
+"6789336d98219e670f32eace",
+"6789337a98219e670f32efdf",
+"6789338898219e670f32f507",
+"67bf540d94f1244c612d51e2",
+"67bf547794f1244c612d6096"
+]
+}
+]
+},
+{
+"name": "Salad",
+"position": 0,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Salad",
+"position": 0,
+"products": [
+"6788fa2b98219e670f31f3da",
+"6788fa4898219e670f31f498",
+"6788fa6d98219e670f31f4f4",
+"6788fa8d98219e670f31f5ca"
+]
+}
+]
+},
+{
+"name": "Poke Bowl",
+"position": 1,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Poke Bowl",
+"position": 1,
+"products": [
+"678912f498219e670f31fbd0",
+"678912fd98219e670f31fc41",
+"6789130f98219e670f31fd1e",
+"6789136198219e670f31ff9e",
+"6789136f98219e670f320112"
+]
+}
+]
+},
+{
+"name": "Nems",
+"position": 4,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Nems",
+"position": 4,
+"products": [
+"6789141398219e670f320312",
+"6789141998219e670f320384"
+]
+}
+]
+},
+{
+"name": "Dynamites",
+"position": 2,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Dynamites",
+"position": 2,
+"products": [
+"678914e598219e670f3208cc"
+]
+}
+]
+},
+{
+"name": "Tempura",
+"position": 3,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Tempura",
+"position": 3,
+"products": [
+"6789154f98219e670f320c23"
+]
+}
+]
+},
+{
+"name": "Fried Rice",
+"position": 5,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Fried Rice",
+"position": 5,
+"products": [
+"67891e7c98219e670f32305e",
+"67891ee098219e670f323180",
+"67891f1298219e670f3233ca",
+"67891f3698219e670f3235a5",
+"67891f4598219e670f3236b1",
+"67891f7998219e670f323a63"
+]
+}
+]
+},
+{
+"name": "Wok Noodels",
+"position": 6,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Wok Noodels",
+"position": 6,
+"products": [
+"67891ce998219e670f322126",
+"67891d5998219e670f3223ea",
+"67891d8a98219e670f3226e3",
+"67891dd798219e670f3229f1",
+"67891df498219e670f322c43",
+"67891e5798219e670f322ef8"
+]
+}
+]
+},
+{
+"name": "Bateau 50 Pcs",
+"position": 9,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Bateau 50 Pcs",
+"position": 9,
+"products": [
+"6789419398219e670f348ee4",
+"6789417398219e670f3488df"
+]
+}
+]
+},
+{
+"name": "Ramadan Karim",
+"position": 12,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Ramadan Karim",
+"position": 12,
+"products": [
+"67c32a43078a8d1d9796bb5d",
+"67c32a6e078a8d1d9796bfb5"
+]
+}
+]
+}
+],
+"supercollections": [],
+"packagings": []
+}
