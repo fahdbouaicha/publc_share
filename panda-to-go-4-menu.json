@@ -459,7 +459,7 @@
 "price": 50,
 "image_url": "https://imgur.com/Qj5MlEH",
 "attributes_groups": [],
-"available": true,
+"available": false,
 "dietary_labels": []
 },
 {
@@ -469,7 +469,7 @@
 "price": 20,
 "image_url": "https://imgur.com/Qj5MlEH",
 "attributes_groups": [],
-"available": true,
+"available": false,
 "dietary_labels": []
 }
 ],
@@ -553,10 +553,10 @@
 "name": "Salad",
 "position": 0,
 "products": [
-"6788fa2b98219e670f31f3da",
-"6788fa4898219e670f31f498",
+"6788fa8d98219e670f31f5ca",
 "6788fa6d98219e670f31f4f4",
-"6788fa8d98219e670f31f5ca"
+"6788fa4898219e670f31f498",
+"6788fa2b98219e670f31f3da"
 ]
 }
 ]
