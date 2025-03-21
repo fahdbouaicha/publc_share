@@ -1,0 +1,1358 @@
+{
+"attributes": [],
+"attribute_groups": [],
+"products": [
+{
+"id": "6788f87b98219e670f31f044",
+"name": "Soupe Misou",
+"description": "",
+"price": 55,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036092/Soupe_misou_ifssnz.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788f88098219e670f31f05f",
+"name": "Soupe Tom Yum",
+"description": "",
+"price": 70,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036093/Soupe_tom_yum_kvo8rt.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788f89998219e670f31f094",
+"name": "Soupe Wonton",
+"description": "",
+"price": 65,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036093/Soupe_wonton_bxalat.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788f8ca98219e670f31f197",
+"name": "Soupe Thai",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036093/Soupe_tha%C3%AF_sk22gt.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788f8e398219e670f31f1cf",
+"name": "Soupe Crevette",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036091/Soupe_crevettes_ghgdus.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788f9d898219e670f31f2a7",
+"name": "Soupe Fruit de Mer",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036091/Soupe_fruit_de_mer_zq2eyb.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788fa0e98219e670f31f342",
+"name": "Salade Edamame",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565310/Edamame_60_dh_kb6agf.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788fa1898219e670f31f387",
+"name": "Salade Goa Wakame",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036092/Salade_gouma_wakame_gl0k9u.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788fa2b98219e670f31f3da",
+"name": "Salade Panda",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363176/Salade-panda_wp3txg.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788fa4898219e670f31f498",
+"name": "Salade Viet",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363177/salade-viet_sg9bmk.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788fa6d98219e670f31f4f4",
+"name": "Salade Gambas Tempura",
+"description": "",
+"price": 85,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363176/Salade-gambas-tempura_ooqxq3.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6788fa8d98219e670f31f5ca",
+"name": "Salade Ceviche Fruit Mer",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363176/Salade-ceviche-fruit-de-mer_ryrjjk.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678912f498219e670f31fbd0",
+"name": "Poke Veggie",
+"description": "",
+"price": 80,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363177/poke-veggie_vufnnr.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678912fd98219e670f31fc41",
+"name": "Poke Shrimp",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/poke-shrimp_qszenw.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789130f98219e670f31fd1e",
+"name": "Poke Salmon",
+"description": "",
+"price": 110,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/poke-soumou_zso2vu.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789135798219e670f31ff21",
+"name": "Poke Thon ",
+"description": "",
+"price": 110,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036092/Poke_thon_dmcxba.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789136198219e670f31ff9e",
+"name": "Poke Norvegien",
+"description": "",
+"price": 110,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363176/poke-norvegien_ptx7ot.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789136f98219e670f320112",
+"name": "Poke Hawaiin",
+"description": "",
+"price": 115,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/poke-Hawaiian_k86yc9.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789141398219e670f320312",
+"name": "Nems Poulet",
+"description": "",
+"price": 60,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Nems_ordxrb.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789141998219e670f320384",
+"name": "Nems Crevettes",
+"description": "",
+"price": 60,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Nems_ordxrb.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678914e598219e670f3208cc",
+"name": "Dynamite Gambas",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Gambas_Dynamites_wxlfsa.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789154f98219e670f320c23",
+"name": "Pince de Crabe ",
+"description": "",
+"price": 65,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740592595/Pinces_de_crabe_lstoom.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789159298219e670f320dbf",
+"name": "Hakao",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036093/Hakao_m95bzo.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678915b598219e670f320e75",
+"name": "Crispy Chicken",
+"description": "",
+"price": 70,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036091/cryspi_gyoza_pny4eh.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678915bb98219e670f320f56",
+"name": "Crispy Shrimp",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036091/cryspi_gyoza_pny4eh.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678915df98219e670f321228",
+"name": "Crispy Crabe Meat",
+"description": "",
+"price": 85,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036091/cryspi_gyoza_pny4eh.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891c9e98219e670f321f92",
+"name": "Crispy Sea Food",
+"description": "",
+"price": 100,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036091/cryspi_gyoza_pny4eh.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891ce998219e670f322126",
+"name": "Veggie Nodels",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Veggie_Noodles_h2ojim.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891d5998219e670f3223ea",
+"name": "Chicken Nodels",
+"description": "",
+"price": 85,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Chicken_Noodles_m2jdhk.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891d8a98219e670f3226e3",
+"name": "Beef Nodels",
+"description": "",
+"price": 100,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Beef_Noodles_orvao6.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891dd798219e670f3229f1",
+"name": "Shrimp Nodels",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Shrimp_Noodles_ifwk9i.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891df498219e670f322c43",
+"name": "Sea Food Nodels",
+"description": "",
+"price": 105,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Sea_Food_Noodles_xcmjlk.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891e5798219e670f322ef8",
+"name": "Special Panda",
+"description": "",
+"price": 110,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Special_Panda_mpkk2b.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891e7c98219e670f32305e",
+"name": "Veggie Fried Rice",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Veggie_Fried_Rice_korycq.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891ee098219e670f323180",
+"name": "Chicken Fried Rice",
+"description": "",
+"price": 85,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Chicken_Fried_Rice_ximxci.png",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891f1298219e670f3233ca",
+"name": "Beef Fried Rice",
+"description": "",
+"price": 100,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Boeuf_Fried_Rice_owxgse.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891f3698219e670f3235a5",
+"name": "Shrimp Fried Rice",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Shrimp_Fried_Rice_z0k4x1.jpg",
+
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891f4598219e670f3236b1",
+"name": "Sea Food Fried Rice",
+"description": "",
+"price": 105,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182111/Sea_Food_Fried_Rice_d7oekt.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891f7998219e670f323a63",
+"name": "Special Fried Rice",
+"description": "",
+"price": 110,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741182112/Special_Fried_Rice_m0imow.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67891fc798219e670f323bcd",
+"name": " Beef Broccoli Wok",
+"description": "",
+"price": 120,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742036091/Beef_brocoli_wok_usvjhn.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789333898219e670f32dd7d",
+"name": "Coca-cola 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/coca_kxtywg.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789336398219e670f32e866",
+"name": "Coca-cola Zero 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/coca_zero_waetpt.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789336d98219e670f32eace",
+"name": "Poms 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593630/poms_rgvfai.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789337a98219e670f32efdf",
+"name": "Hawai 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/hawai_ndkaw0.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789338898219e670f32f507",
+"name": "Sprite 33cl",
+"description": "",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593630/sprit_teyyfs.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678934ba98219e670f332283",
+"name": "Aromaki Cheesy Ebi",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565310/Aromaki_chesy_eby_70_dh_qjtkqg.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789350f98219e670f33366e",
+"name": "Aromaki Bali",
+"description": "",
+"price": 105,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565310/Aromaki_Bali_85_dh_mh7uuo.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789351e98219e670f333a79",
+"name": "Aromaki Malibu ",
+"description": "",
+"price": 105,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565310/Aromaki_Malibu_85_dh_fa9pio.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789356198219e670f3346aa",
+"name": "Fry Ebi Fry",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565311/Fry_ebi_fry_60_dh_ghaewq.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789356c98219e670f33492e",
+"name": "Fry Salomon Fry",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565311/Fry_Salomon_fry_60_dh_tv8fix.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678935b598219e670f335094",
+"name": "Tiramisu",
+"description": "",
+"price": 50,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363177/Tiramissu_x32tsv.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678935d798219e670f3357d4",
+"name": "Dragon Eyes",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565310/Dragon_eyes_70_dh_lr2r5h.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789364e98219e670f3362c1",
+"name": "Pannacota ",
+"description": "",
+"price": 50,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/panacota_cmufut.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789368b98219e670f3365e6",
+"name": "Golden Rolls",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565311/Golden_roll_75_dh_rcidil.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789369898219e670f336961",
+"name": "Cheesy and Crispy",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565310/Cheesy_and_crispy_75_dh_crdbtv.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678936ad98219e670f3370ae",
+"name": "Tasty Roll",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565313/Tasty_roll_75_dh_dxicdw.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678936ba98219e670f337e97",
+"name": "King Smoke",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565311/King_smoke_roll_75_dh_rcoj60.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678936db98219e670f3385cd",
+"name": "Kamikaze",
+"description": "",
+"price": 100,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565311/Kamikaz_80_dh_rmlpvw.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678936f698219e670f338a74",
+"name": "Maki Crispy Salomon",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565313/Maki_cryspi_Salomon_70_dh_x1hyjo.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789370398219e670f338c24",
+"name": "Mousse Chocolat",
+"description": "",
+"price": 50,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1741363175/mousse_chocolat_pjcrrm.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789373198219e670f33a30e",
+"name": "Maki Crispy Thon",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565312/Maki_crispy_thon_70_dh_liujao.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789373b98219e670f33a7f4",
+"name": "Salmon Bebe Ball",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565312/Shrimp_ou_Salomon_b%C3%A9b%C3%A9_ball_70_dh_sasloh.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789374498219e670f33accd",
+"name": "Shrimp Bebe Ball",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565312/Shrimp_ou_Salomon_b%C3%A9b%C3%A9_ball_70_dh_sasloh.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893b0598219e670f33e1c0",
+"name": "Crispy Mozza ",
+"description": "",
+"price": 90,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565313/Sushi_pizza_cryspi_mozza_70_dh_l51tm0.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893b0a98219e670f33e3ad",
+"name": "Seafood Pizza",
+"description": "",
+"price": 95,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565312/Sea_food_pizza_75_dh_wyjvhz.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893c8298219e670f342c68",
+"name": "California 24 Pcs",
+"description": "",
+"price": 230,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_California_ofre6w.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893cb898219e670f342e84",
+"name": "Silver 24 Pcs",
+"description": "",
+"price": 280,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_silver_trij0i.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893d3898219e670f3435c8",
+"name": "Crunchy 24 Pcs",
+"description": "",
+"price": 240,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_crunshy_w0v0ba.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893d5198219e670f343c12",
+"name": "Gold 24 Pcs",
+"description": "",
+"price": 300,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/24_gold_tevn3z.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893d9398219e670f344400",
+"name": "California 36 Pcs",
+"description": "",
+"price": 350,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/36_California_eakerm.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893dae98219e670f344809",
+"name": "Silver 36 Pcs",
+"description": "",
+"price": 420,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807698/36_sliver_fpk9e2.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67893dcb98219e670f344c28",
+"name": "Crunchy 36 Pcs",
+"description": "",
+"price": 370,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/36_crunshy_pf4qzo.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789417398219e670f3488df",
+"name": "Silver 50 Pcs ",
+"description": "",
+"price": 550,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807698/50_silver_w7g9kf.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "6789419398219e670f348ee4",
+"name": "Gold 50 Pcs",
+"description": "",
+"price": 650,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807698/50_gold_dpg9cm.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "678a22b02d7448794c428cb9",
+"name": "Gold 36 Pcs ",
+"description": "",
+"price": 450,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1739807697/36_gold_egpc2u.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67951d672de1d3bf749ef13b",
+"name": "Huitres 12 Pcs",
+"description": "",
+"price": 225,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565312/Ostras_3_pcs_60_.6_pcs_100_.12_pcs_180_tfkwxj.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67951d962de1d3bf749efb1b",
+"name": "Huitres 3 Pcs",
+"description": "",
+"price": 75,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565312/Ostras_3_pcs_60_.6_pcs_100_.12_pcs_180_tfkwxj.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67951dae2de1d3bf749f015e",
+"name": "Huitres 6 Pcs",
+"description": "",
+"price": 125,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1742565312/Ostras_3_pcs_60_.6_pcs_100_.12_pcs_180_tfkwxj.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67bf540d94f1244c612d51e2",
+"name": "Schweppes 33cl",
+"description": "Schweppes 33cl",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593630/schweppes_citron_isemum.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67bf547794f1244c612d6096",
+"name": "Oulmès 33cl",
+"description": "Oulmès 33cl",
+"price": 20,
+"image_url": "https://res.cloudinary.com/duj3lyjam/image/upload/v1740593629/oulmas_eewjvh.jpg",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67c32a43078a8d1d9796bb5d",
+"name": "Classic Ftor",
+"description": "",
+"price": 50,
+"image_url": "https://imgur.com/Qj5MlEH",
+"attributes_groups": [],
+"available": false,
+"dietary_labels": []
+},
+{
+"id": "67c32a6e078a8d1d9796bfb5",
+"name": "Dates & Chabakia",
+"description": "",
+"price": 20,
+"image_url": "https://imgur.com/Qj5MlEH",
+"attributes_groups": [],
+"available": false,
+"dietary_labels": []
+},
+{
+"id": "67d83d7f78e3f6da4602a302",
+"name": "Chicken Tempura",
+"description": "",
+"price": 60,
+"image_url": "https://imgur.com/Qj5MlEH",
+"attributes_groups": [],
+"available": false,
+"dietary_labels": []
+},
+{
+"id": "67dc2affec332bd5cd2f4776",
+"name": "Bento 1 Ramadan",
+"price": 150,
+"image_url": "https://imgur.com/Qj5MlEH",
+"extra_image_urls": [],
+"description": "Bento 1 Ramadan",
+"attributes_groups": [],
+"available": true,
+"combo_groups": [
+{
+"name": "Step 1",
+"multiple_selection": false,
+"min": 3,
+"max": 3,
+"combo_items": [
+{
+"product_id": "6788fa4898219e670f31f498",
+"surcharge": 0
+},
+{
+"product_id": "67c32a6e078a8d1d9796bfb5",
+"surcharge": 0
+},
+{
+"product_id": "67dc2b51ec332bd5cd2f4cf0",
+"surcharge": 0
+}
+]
+}
+],
+"dietary_labels": []
+},
+{
+"id": "67dc2b51ec332bd5cd2f4cf0",
+"name": "Harira",
+"description": "",
+"price": 1,
+"image_url": "https://imgur.com/Qj5MlEH",
+"attributes_groups": [],
+"available": true,
+"dietary_labels": []
+},
+{
+"id": "67dd58cf687da1a90015e615",
+"name": "Bento 2 Ramadan",
+"price": 170,
+"image_url": "https://imgur.com/Qj5MlEH",
+"extra_image_urls": [],
+"description": "Bento 2 Ramadan",
+"attributes_groups": [],
+"available": true,
+"combo_groups": [
+{
+"name": "Step 1",
+"multiple_selection": false,
+"min": 3,
+"max": 3,
+"combo_items": [
+{
+"product_id": "6788fa4898219e670f31f498",
+"surcharge": 0
+},
+{
+"product_id": "67dc2b51ec332bd5cd2f4cf0",
+"surcharge": 0
+},
+{
+"product_id": "67c32a6e078a8d1d9796bfb5",
+"surcharge": 0
+}
+]
+},
+{
+"name": "Step 2",
+"multiple_selection": false,
+"min": 0,
+"max": 1,
+"combo_items": [
+{
+"product_id": "67891f1298219e670f3233ca",
+"surcharge": 0
+},
+{
+"product_id": "67891f3698219e670f3235a5",
+"surcharge": 0
+},
+{
+"product_id": "67891ee098219e670f323180",
+"surcharge": 0
+},
+{
+"product_id": "67891d5998219e670f3223ea",
+"surcharge": 0
+},
+{
+"product_id": "67891d8a98219e670f3226e3",
+"surcharge": 0
+},
+{
+"product_id": "67891dd798219e670f3229f1",
+"surcharge": 0
+}
+]
+}
+],
+"dietary_labels": []
+},
+{
+"id": "67dd5c45687da1a900160635",
+"name": "Bento 3 Ramadan",
+"price": 190,
+"image_url": "https://imgur.com/Qj5MlEH",
+"extra_image_urls": [],
+"description": "Bento 3 Ramadan",
+"attributes_groups": [],
+"available": true,
+"combo_groups": [
+{
+"name": "Step 1",
+"multiple_selection": false,
+"min": 2,
+"max": 2,
+"combo_items": [
+{
+"product_id": "67dc2b51ec332bd5cd2f4cf0",
+"surcharge": 0
+},
+{
+"product_id": "67c32a6e078a8d1d9796bfb5",
+"surcharge": 0
+}
+]
+},
+{
+"name": "Step 2",
+"multiple_selection": false,
+"min": 0,
+"max": 1,
+"combo_items": []
+}
+],
+"dietary_labels": []
+}
+],
+"collections": [
+{
+"name": "Dessert",
+"position": 0,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Dessert",
+"position": 1,
+"products": [
+"678935b598219e670f335094",
+"6789364e98219e670f3362c1",
+"6789370398219e670f338c24"
+]
+}
+]
+},
+{
+"name": "Aromaki Fried Rolls",
+"position": 1,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Aromaki Fried Rolls",
+"position": 1,
+"products": [
+"678934ba98219e670f332283",
+"6789350f98219e670f33366e",
+"6789351e98219e670f333a79"
+]
+}
+]
+},
+{
+"name": "Fried Rolls",
+"position": 2,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Fried Rolls",
+"position": 1,
+"products": [
+"6789356198219e670f3346aa",
+"6789356c98219e670f33492e",
+"678935d798219e670f3357d4",
+"6789368b98219e670f3365e6",
+"6789369898219e670f336961",
+"678936ad98219e670f3370ae",
+"678936ba98219e670f337e97",
+"678936db98219e670f3385cd",
+"678936f698219e670f338a74",
+"6789373198219e670f33a30e",
+"6789373b98219e670f33a7f4",
+"6789374498219e670f33accd"
+]
+}
+]
+},
+{
+"name": "Sushi Pizza",
+"position": 3,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Sushi Pizza",
+"position": 1,
+"products": [
+"67893b0598219e670f33e1c0",
+"67893b0a98219e670f33e3ad"
+]
+}
+]
+},
+{
+"name": "Assortiment Sushi 24 Pcs",
+"position": 4,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Assortiment Sushi 24 Pcs",
+"position": 1,
+"products": [
+"67893c8298219e670f342c68",
+"67893cb898219e670f342e84",
+"67893d3898219e670f3435c8",
+"67893d5198219e670f343c12"
+]
+}
+]
+},
+{
+"name": "Assortiment Sushi 36 Pcs",
+"position": 5,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Assortiment Sushi 36 Pcs",
+"position": 1,
+"products": [
+"67893d9398219e670f344400",
+"67893dae98219e670f344809",
+"67893dcb98219e670f344c28",
+"678a22b02d7448794c428cb9"
+]
+}
+]
+},
+{
+"name": "Soda",
+"position": 6,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Soda",
+"position": 1,
+"products": [
+"6789333898219e670f32dd7d",
+"6789336398219e670f32e866",
+"6789336d98219e670f32eace",
+"6789337a98219e670f32efdf",
+"6789338898219e670f32f507",
+"67bf540d94f1244c612d51e2",
+"67bf547794f1244c612d6096"
+]
+}
+]
+},
+{
+"name": "Salad",
+"position": 7,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Salad",
+"position": 1,
+"products": [
+"6788fa0e98219e670f31f342",
+"6788fa1898219e670f31f387",
+"6788fa2b98219e670f31f3da",
+"6788fa4898219e670f31f498",
+"6788fa6d98219e670f31f4f4",
+"6788fa8d98219e670f31f5ca"
+]
+}
+]
+},
+{
+"name": "Poke Bowl",
+"position": 8,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Poke Bowl",
+"position": 1,
+"products": [
+"678912f498219e670f31fbd0",
+"678912fd98219e670f31fc41",
+"6789130f98219e670f31fd1e",
+"6789135798219e670f31ff21",
+"6789136198219e670f31ff9e",
+"6789136f98219e670f320112"
+]
+}
+]
+},
+{
+"name": "Nems",
+"position": 9,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Nems",
+"position": 1,
+"products": [
+"6789141398219e670f320312",
+"6789141998219e670f320384"
+]
+}
+]
+},
+{
+"name": "Dynamites",
+"position": 10,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Dynamites",
+"position": 1,
+"products": [
+"678914e598219e670f3208cc"
+]
+}
+]
+},
+{
+"name": "Tempura",
+"position": 11,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Tempura",
+"position": 1,
+"products": [
+"6789154f98219e670f320c23",
+"67d83d7f78e3f6da4602a302"
+]
+}
+]
+},
+{
+"name": "Soupe",
+"position": 12,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Soupe",
+"position": 1,
+"products": [
+"6788f87b98219e670f31f044",
+"6788f88098219e670f31f05f",
+"6788f89998219e670f31f094",
+"6788f8ca98219e670f31f197",
+"6788f8e398219e670f31f1cf",
+"6788f9d898219e670f31f2a7"
+]
+}
+]
+},
+{
+"name": "Fried Rice",
+"position": 13,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Fried Rice",
+"position": 1,
+"products": [
+"67891e7c98219e670f32305e",
+"67891ee098219e670f323180",
+"67891f1298219e670f3233ca",
+"67891f3698219e670f3235a5",
+"67891f4598219e670f3236b1",
+"67891f7998219e670f323a63"
+]
+}
+]
+},
+{
+"name": "Wok Noodels",
+"position": 14,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Wok Noodels",
+"position": 1,
+"products": [
+"67891ce998219e670f322126",
+"67891d5998219e670f3223ea",
+"67891d8a98219e670f3226e3",
+"67891dd798219e670f3229f1",
+"67891df498219e670f322c43",
+"67891e5798219e670f322ef8"
+]
+}
+]
+},
+{
+"name": "Wok Bowl",
+"position": 15,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Wok Bowl",
+"position": 1,
+"products": [
+"67891fc798219e670f323bcd"
+]
+}
+]
+},
+{
+"name": "Dim Sum",
+"position": 16,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Dim Sum",
+"position": 1,
+"products": [
+"6789159298219e670f320dbf"
+]
+}
+]
+},
+{
+"name": "Crispy Gyoza",
+"position": 17,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Crispy Gyoza",
+"position": 1,
+"products": [
+"678915b598219e670f320e75",
+"678915bb98219e670f320f56",
+"678915df98219e670f321228",
+"67891c9e98219e670f321f92"
+]
+}
+]
+},
+{
+"name": "Bateau 50 Pcs",
+"position": 18,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Bateau 50 Pcs",
+"position": 1,
+"products": [
+"6789417398219e670f3488df",
+"6789419398219e670f348ee4"
+]
+}
+]
+},
+{
+"name": "Bento",
+"position": 19,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Bento",
+"position": 1,
+"products": [
+"67dc2affec332bd5cd2f4776",
+"67dd58cf687da1a90015e615",
+"67dd5c45687da1a900160635"
+]
+}
+]
+},
+{
+"name": "Huitres",
+"position": 20,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Huitres",
+"position": 1,
+"products": [
+"67951d672de1d3bf749ef13b",
+"67951d962de1d3bf749efb1b",
+"67951dae2de1d3bf749f015e"
+]
+}
+]
+},
+{
+"name": "Ramadan Karim",
+"position": 21,
+"image_url": "https://imgur.com/Qj5MlEH",
+"sections": [
+{
+"name": "Ramadan Karim",
+"position": 1,
+"products": [
+"67c32a43078a8d1d9796bb5d",
+"67c32a6e078a8d1d9796bfb5",
+"67dc2b51ec332bd5cd2f4cf0"
+]
+}
+]
+}
+],
+"supercollections": [],
+"packagings": []
+}
