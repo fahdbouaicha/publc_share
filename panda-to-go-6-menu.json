@@ -841,7 +841,7 @@
 "extra_image_urls": [],
 "description": "Bento 1 Ramadan",
 "attributes_groups": [],
-"available": true,
+"available": false,
 "combo_groups": [
 {
 "name": "Step 1",
@@ -873,7 +873,7 @@
 "price": 1,
 "image_url": "https://imgur.com/Qj5MlEH",
 "attributes_groups": [],
-"available": true,
+"available": false,
 "dietary_labels": []
 },
 {
@@ -884,7 +884,7 @@
 "extra_image_urls": [],
 "description": "Bento 2 Ramadan",
 "attributes_groups": [],
-"available": true,
+"available": false,
 "combo_groups": [
 {
 "name": "Step 1",
